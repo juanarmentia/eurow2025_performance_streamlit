@@ -1,8 +1,9 @@
 [project]
-name = "streamlit"
+name = "soccermatics-pro"
 version = "0.1.0"
 description = "Add your description here"
 requires-python = ">=3.12"
+package-mode = false
 dependencies = [
     "matplotlib>=3.10.7",
     "mplsoccer>=1.6.1",
