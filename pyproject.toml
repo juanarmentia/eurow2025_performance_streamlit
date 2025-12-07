@@ -4,7 +4,6 @@ version = "0.1.0"
 description = "Add your description here"
 requires-python = ">=3.12"
 dependencies = [
-    "loguru>=0.7.3",
     "matplotlib>=3.10.7",
     "mplsoccer>=1.6.1",
     "omegaconf>=2.3.0",
