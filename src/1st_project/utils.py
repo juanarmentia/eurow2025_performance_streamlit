@@ -1,7 +1,6 @@
 import numpy as np
 import pandas as pd
 import seaborn as sns
-from loguru import logger
 from matplotlib import pyplot as plt
 from matplotlib.colors import LinearSegmentedColormap
 from mplsoccer import Sbopen
@@ -256,24 +255,6 @@ def get_player_data(events: pd.DataFrame, player_id: int, tactics: pd.DataFrame)
                 if distance_reduction >= 0.25 * distance_before:
                     progressive_passes_received += 1
 
-    # if not received_passes.empty and 'end_x' in received_passes.columns:
-    #     successful_received = received_passes[received_passes['outcome_name'].isna()].copy()
-    #
-    #     if not successful_received.empty:
-    #         successful_received['x_progression'] = successful_received['end_x'] - successful_received['x']
-    #
-    #         own_half_progressive_rcv = successful_received[
-    #             (successful_received['x'] < 60) &
-    #             (successful_received['x_progression'] >= 10)
-    #             ]
-    #
-    #         opponent_half_progressive_rcv = successful_received[
-    #             (successful_received['x'] >= 60) &
-    #             (successful_received['x_progression'] >= 5)
-    #             ]
-    #
-    #         progressive_passes_received = len(own_half_progressive_rcv) + len(opponent_half_progressive_rcv)
-
     # Completed Dribbles
     dribbles = len(
         player_events[(player_events['type_name'] == 'Dribble') &
@@ -308,9 +289,24 @@ def get_player_data(events: pd.DataFrame, player_id: int, tactics: pd.DataFrame)
             # Check if the carry reduced distance by at least 25%
             if distance_reduction >= 0.25 * distance_before:
                 progressive_carries += 1
-    # if not carry_events.empty and 'end_x' in carry_events.columns:
-    #     carry_events['progressive_distance'] = carry_events['end_x'] - carry_events['x']
-    #     progressive_carries = len(carry_events[carry_events['progressive_distance'] >= 10])
+
+
+    # DEFENSIVE
+    # Interceptions
+    interceptions = len(player_events[player_events['type_name'] == 'Interception'])
+
+    ball_recoveries = len(player_events[player_events['type_name'] == 'Ball Recovery'])
+
+    successful_tackles = len(player_events[
+                    (player_events['type_name'] == 'Duel') &
+                    (player_events['sub_type_name'] == 'Tackle') &
+                    (player_events['outcome_name'].isin(['Won', 'Success', 'Success in Play', 'Success Out']))
+                  ])
+
+    total_tackles = len(player_events[
+                                 (player_events['type_name'] == 'Duel') &
+                                 (player_events['sub_type_name'] == 'Tackle')
+                                 ])
 
     return {
         'player_name': player_name,
@@ -326,11 +322,14 @@ def get_player_data(events: pd.DataFrame, player_id: int, tactics: pd.DataFrame)
         'progr_passes_rec': progressive_passes_received,
         'dribbles': dribbles,
         'carries': carries,
-        'progr_carries': progressive_carries
+        'progr_carries': progressive_carries,
+        'interceptions': interceptions,
+        'ball_recoveries': ball_recoveries,
+        'successful_tackles': successful_tackles,
+        'total_tackles': total_tackles,
     }
 
 def get_match_data(parser: Sbopen, match_id: int, all_players_stats: dict):
-    logger.info(f'Processing match {match_id}')
     # Get events and tactics
     # tactics contains the starting lineup with positions
     events, related, freeze, tactics = parser.event(match_id)
@@ -340,9 +339,9 @@ def get_match_data(parser: Sbopen, match_id: int, all_players_stats: dict):
     # Note: StatsBomb records the player's position in each event in the 'position_name' column
     # (if available) or we can infer from tactics.
 
-    events_rw_lw = events[events['position_name'].isin(config.target_positions)]
-    target_player_ids = events_rw_lw['player_id'].dropna().unique()
-    # target_player_ids = events['player_id'].dropna().unique()
+    # events_rw_lw = events[events['position_name'].isin(config.target_positions)]
+    # target_player_ids = events_rw_lw['player_id'].dropna().unique()
+    target_player_ids = events['player_id'].dropna().unique()
 
     if len(target_player_ids) == 0:
         return None
@@ -357,7 +356,8 @@ def get_match_data(parser: Sbopen, match_id: int, all_players_stats: dict):
                 'position': [],'matches': 0, 'minutes': 0, 'goals': 0, 'shots': 0,
                 'npxg': 0.0, 'assists': 0, 'xa': 0.0, 'key_passes': 0,
                 'progr_passes': 0, 'progr_passes_rec': 0, 'dribbles': 0,
-                'carries': 0, 'progr_carries': 0
+                'carries': 0, 'progr_carries': 0, 'interceptions': 0, 'ball_recoveries': 0,
+                'successful_tackles': 0, 'total_tackles': 0
             }
 
         position = None
@@ -377,7 +377,10 @@ def get_match_data(parser: Sbopen, match_id: int, all_players_stats: dict):
         all_players_stats[player_name]['progr_passes_rec'] += player_metrics.get('progr_passes_rec')
         all_players_stats[player_name]['dribbles'] += player_metrics.get('dribbles')
         all_players_stats[player_name]['carries'] += player_metrics.get('carries')
-        all_players_stats[player_name]['progr_carries'] += player_metrics.get('progr_carries')
+        all_players_stats[player_name]['interceptions'] += player_metrics.get('interceptions')
+        all_players_stats[player_name]['ball_recoveries'] += player_metrics.get('ball_recoveries')
+        all_players_stats[player_name]['successful_tackles'] += player_metrics.get('successful_tackles')
+        all_players_stats[player_name]['total_tackles'] += player_metrics.get('total_tackles')
 
 
 def truncate_colormap(cmap_name, minval=0.0, maxval=1.0, n=256):
