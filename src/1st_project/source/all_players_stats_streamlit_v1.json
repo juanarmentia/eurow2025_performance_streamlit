@@ -20,7 +20,11 @@
         "progr_passes_rec": 25,
         "dribbles": 5,
         "carries": 140,
-        "progr_carries": 5
+        "progr_carries": 0,
+        "interceptions": 2,
+        "ball_recoveries": 23,
+        "successful_tackles": 2,
+        "total_tackles": 4
     },
     "Hannah Hampton": {
         "position": [
@@ -43,7 +47,11 @@
         "progr_passes_rec": 0,
         "dribbles": 0,
         "carries": 188,
-        "progr_carries": 0
+        "progr_carries": 0,
+        "interceptions": 0,
+        "ball_recoveries": 14,
+        "successful_tackles": 0,
+        "total_tackles": 0
     },
     "Esther Gonzalez Rodríguez": {
         "position": [
@@ -65,7 +73,11 @@
         "progr_passes_rec": 47,
         "dribbles": 2,
         "carries": 73,
-        "progr_carries": 10
+        "progr_carries": 0,
+        "interceptions": 1,
+        "ball_recoveries": 17,
+        "successful_tackles": 2,
+        "total_tackles": 3
     },
     "Lucy Bronze": {
         "position": [
@@ -88,7 +100,11 @@
         "progr_passes_rec": 26,
         "dribbles": 3,
         "carries": 246,
-        "progr_carries": 8
+        "progr_carries": 0,
+        "interceptions": 5,
+        "ball_recoveries": 38,
+        "successful_tackles": 3,
+        "total_tackles": 14
     },
     "Lauren Hemp": {
         "position": [
@@ -111,7 +127,11 @@
         "progr_passes_rec": 43,
         "dribbles": 6,
         "carries": 214,
-        "progr_carries": 28
+        "progr_carries": 0,
+        "interceptions": 8,
+        "ball_recoveries": 31,
+        "successful_tackles": 4,
+        "total_tackles": 11
     },
     "Olga  Carmona García": {
         "position": [
@@ -133,7 +153,11 @@
         "progr_passes_rec": 11,
         "dribbles": 7,
         "carries": 284,
-        "progr_carries": 10
+        "progr_carries": 0,
+        "interceptions": 6,
+        "ball_recoveries": 23,
+        "successful_tackles": 2,
+        "total_tackles": 11
     },
     "Alessia Russo": {
         "position": [
@@ -156,7 +180,11 @@
         "progr_passes_rec": 68,
         "dribbles": 3,
         "carries": 117,
-        "progr_carries": 6
+        "progr_carries": 0,
+        "interceptions": 1,
+        "ball_recoveries": 22,
+        "successful_tackles": 3,
+        "total_tackles": 6
     },
     "Patricia Guijarro Gutiérrez": {
         "position": [
@@ -179,7 +207,11 @@
         "progr_passes_rec": 10,
         "dribbles": 7,
         "carries": 431,
-        "progr_carries": 5
+        "progr_carries": 0,
+        "interceptions": 8,
+        "ball_recoveries": 46,
+        "successful_tackles": 5,
+        "total_tackles": 19
     },
     "Keira Walsh": {
         "position": [
@@ -202,7 +234,11 @@
         "progr_passes_rec": 11,
         "dribbles": 4,
         "carries": 265,
-        "progr_carries": 4
+        "progr_carries": 0,
+        "interceptions": 1,
+        "ball_recoveries": 39,
+        "successful_tackles": 2,
+        "total_tackles": 9
     },
     "Alexia Putellas Segura": {
         "position": [
@@ -225,7 +261,11 @@
         "progr_passes_rec": 55,
         "dribbles": 4,
         "carries": 359,
-        "progr_carries": 9
+        "progr_carries": 0,
+        "interceptions": 3,
+        "ball_recoveries": 30,
+        "successful_tackles": 3,
+        "total_tackles": 7
     },
     "Georgia Stanway": {
         "position": [
@@ -248,7 +288,11 @@
         "progr_passes_rec": 27,
         "dribbles": 7,
         "carries": 175,
-        "progr_carries": 3
+        "progr_carries": 0,
+        "interceptions": 2,
+        "ball_recoveries": 32,
+        "successful_tackles": 3,
+        "total_tackles": 18
     },
     "Leah Williamson": {
         "position": [
@@ -271,7 +315,11 @@
         "progr_passes_rec": 3,
         "dribbles": 0,
         "carries": 334,
-        "progr_carries": 3
+        "progr_carries": 0,
+        "interceptions": 4,
+        "ball_recoveries": 25,
+        "successful_tackles": 4,
+        "total_tackles": 6
     },
     "Jessica Carter": {
         "position": [
@@ -293,7 +341,11 @@
         "progr_passes_rec": 0,
         "dribbles": 0,
         "carries": 211,
-        "progr_carries": 1
+        "progr_carries": 0,
+        "interceptions": 5,
+        "ball_recoveries": 21,
+        "successful_tackles": 1,
+        "total_tackles": 8
     },
     "Alex Greenwood": {
         "position": [
@@ -316,7 +368,11 @@
         "progr_passes_rec": 4,
         "dribbles": 0,
         "carries": 313,
-        "progr_carries": 1
+        "progr_carries": 0,
+        "interceptions": 7,
+        "ball_recoveries": 36,
+        "successful_tackles": 1,
+        "total_tackles": 9
     },
     "Athenea del Castillo Belvide": {
         "position": [
@@ -338,7 +394,11 @@
         "progr_passes_rec": 19,
         "dribbles": 5,
         "carries": 134,
-        "progr_carries": 17
+        "progr_carries": 0,
+        "interceptions": 2,
+        "ball_recoveries": 30,
+        "successful_tackles": 2,
+        "total_tackles": 4
     },
     "Lauren James": {
         "position": [
@@ -361,7 +421,11 @@
         "progr_passes_rec": 31,
         "dribbles": 3,
         "carries": 168,
-        "progr_carries": 16
+        "progr_carries": 0,
+        "interceptions": 4,
+        "ball_recoveries": 23,
+        "successful_tackles": 2,
+        "total_tackles": 5
     },
     "Ona Batlle Pascual": {
         "position": [
@@ -383,7 +447,11 @@
         "progr_passes_rec": 17,
         "dribbles": 2,
         "carries": 324,
-        "progr_carries": 9
+        "progr_carries": 0,
+        "interceptions": 5,
+        "ball_recoveries": 33,
+        "successful_tackles": 4,
+        "total_tackles": 13
     },
     "Catalina Thomas Coll Lluch": {
         "position": [
@@ -403,7 +471,11 @@
         "progr_passes_rec": 0,
         "dribbles": 0,
         "carries": 68,
-        "progr_carries": 0
+        "progr_carries": 0,
+        "interceptions": 0,
+        "ball_recoveries": 12,
+        "successful_tackles": 0,
+        "total_tackles": 0
     },
     "Laia Aleixandri López": {
         "position": [
@@ -424,7 +496,11 @@
         "progr_passes_rec": 1,
         "dribbles": 1,
         "carries": 291,
-        "progr_carries": 7
+        "progr_carries": 0,
+        "interceptions": 5,
+        "ball_recoveries": 15,
+        "successful_tackles": 3,
+        "total_tackles": 5
     },
     "Irene Paredes Hernandez": {
         "position": [
@@ -446,7 +522,11 @@
         "progr_passes_rec": 5,
         "dribbles": 0,
         "carries": 383,
-        "progr_carries": 1
+        "progr_carries": 0,
+        "interceptions": 7,
+        "ball_recoveries": 37,
+        "successful_tackles": 0,
+        "total_tackles": 4
     },
     "Aitana Bonmati Conca": {
         "position": [
@@ -468,7 +548,11 @@
         "progr_passes_rec": 54,
         "dribbles": 3,
         "carries": 337,
-        "progr_carries": 20
+        "progr_carries": 0,
+        "interceptions": 2,
+        "ball_recoveries": 26,
+        "successful_tackles": 1,
+        "total_tackles": 8
     },
     "María Francesca Caldentey Oliver": {
         "position": [
@@ -491,7 +575,11 @@
         "progr_passes_rec": 33,
         "dribbles": 8,
         "carries": 387,
-        "progr_carries": 17
+        "progr_carries": 0,
+        "interceptions": 9,
+        "ball_recoveries": 36,
+        "successful_tackles": 5,
+        "total_tackles": 10
     },
     "Chloe Kelly": {
         "position": [
@@ -513,7 +601,11 @@
         "progr_passes_rec": 13,
         "dribbles": 2,
         "carries": 81,
-        "progr_carries": 5
+        "progr_carries": 0,
+        "interceptions": 0,
+        "ball_recoveries": 9,
+        "successful_tackles": 2,
+        "total_tackles": 9
     },
     "Michelle Agyemang": {
         "position": [
@@ -533,7 +625,11 @@
         "progr_passes_rec": 15,
         "dribbles": 1,
         "carries": 29,
-        "progr_carries": 3
+        "progr_carries": 0,
+        "interceptions": 0,
+        "ball_recoveries": 9,
+        "successful_tackles": 3,
+        "total_tackles": 4
     },
     "Claudia Pina Medina": {
         "position": [
@@ -555,7 +651,11 @@
         "progr_passes_rec": 33,
         "dribbles": 9,
         "carries": 206,
-        "progr_carries": 22
+        "progr_carries": 0,
+        "interceptions": 1,
+        "ball_recoveries": 17,
+        "successful_tackles": 1,
+        "total_tackles": 4
     },
     "Bethany Mead": {
         "position": [
@@ -577,7 +677,11 @@
         "progr_passes_rec": 22,
         "dribbles": 1,
         "carries": 86,
-        "progr_carries": 3
+        "progr_carries": 0,
+        "interceptions": 1,
+        "ball_recoveries": 11,
+        "successful_tackles": 0,
+        "total_tackles": 8
     },
     "Salma Paralluelo Ayingono": {
         "position": [
@@ -599,7 +703,11 @@
         "progr_passes_rec": 31,
         "dribbles": 2,
         "carries": 58,
-        "progr_carries": 8
+        "progr_carries": 0,
+        "interceptions": 0,
+        "ball_recoveries": 8,
+        "successful_tackles": 0,
+        "total_tackles": 3
     },
     "Victoria López": {
         "position": [
@@ -620,7 +728,11 @@
         "progr_passes_rec": 22,
         "dribbles": 12,
         "carries": 141,
-        "progr_carries": 14
+        "progr_carries": 0,
+        "interceptions": 2,
+        "ball_recoveries": 16,
+        "successful_tackles": 2,
+        "total_tackles": 3
     },
     "Leila Ouahabi El Ouahabi": {
         "position": [
@@ -639,7 +751,11 @@
         "progr_passes_rec": 1,
         "dribbles": 1,
         "carries": 98,
-        "progr_carries": 1
+        "progr_carries": 0,
+        "interceptions": 1,
+        "ball_recoveries": 3,
+        "successful_tackles": 0,
+        "total_tackles": 2
     },
     "Niamh Charles": {
         "position": [
@@ -659,7 +775,11 @@
         "progr_passes_rec": 3,
         "dribbles": 0,
         "carries": 36,
-        "progr_carries": 0
+        "progr_carries": 0,
+        "interceptions": 3,
+        "ball_recoveries": 5,
+        "successful_tackles": 1,
+        "total_tackles": 3
     },
     "Grace Clinton": {
         "position": [
@@ -679,7 +799,11 @@
         "progr_passes_rec": 0,
         "dribbles": 0,
         "carries": 21,
-        "progr_carries": 0
+        "progr_carries": 0,
+        "interceptions": 1,
+        "ball_recoveries": 7,
+        "successful_tackles": 0,
+        "total_tackles": 3
     },
     "Giovanna Hoffmann": {
         "position": [
@@ -701,7 +825,11 @@
         "progr_passes_rec": 26,
         "dribbles": 1,
         "carries": 42,
-        "progr_carries": 1
+        "progr_carries": 0,
+        "interceptions": 1,
+        "ball_recoveries": 8,
+        "successful_tackles": 2,
+        "total_tackles": 4
     },
     "María Méndez Fernández": {
         "position": [
@@ -721,7 +849,11 @@
         "progr_passes_rec": 1,
         "dribbles": 0,
         "carries": 209,
-        "progr_carries": 0
+        "progr_carries": 0,
+        "interceptions": 0,
+        "ball_recoveries": 13,
+        "successful_tackles": 0,
+        "total_tackles": 1
     },
     "Carlotta Wamser": {
         "position": [
@@ -742,7 +874,11 @@
         "progr_passes_rec": 3,
         "dribbles": 3,
         "carries": 121,
-        "progr_carries": 4
+        "progr_carries": 0,
+        "interceptions": 4,
+        "ball_recoveries": 25,
+        "successful_tackles": 3,
+        "total_tackles": 6
     },
     "Elisa Senß": {
         "position": [
@@ -764,7 +900,11 @@
         "progr_passes_rec": 3,
         "dribbles": 2,
         "carries": 140,
-        "progr_carries": 1
+        "progr_carries": 0,
+        "interceptions": 4,
+        "ball_recoveries": 28,
+        "successful_tackles": 3,
+        "total_tackles": 18
     },
     "Janina Minge": {
         "position": [
@@ -786,7 +926,11 @@
         "progr_passes_rec": 1,
         "dribbles": 1,
         "carries": 216,
-        "progr_carries": 2
+        "progr_carries": 0,
+        "interceptions": 11,
+        "ball_recoveries": 15,
+        "successful_tackles": 3,
+        "total_tackles": 13
     },
     "Jule Brand": {
         "position": [
@@ -808,7 +952,11 @@
         "progr_passes_rec": 30,
         "dribbles": 14,
         "carries": 169,
-        "progr_carries": 28
+        "progr_carries": 0,
+        "interceptions": 4,
+        "ball_recoveries": 30,
+        "successful_tackles": 7,
+        "total_tackles": 18
     },
     "Sophia Kleinherne": {
         "position": [
@@ -826,7 +974,11 @@
         "progr_passes_rec": 1,
         "dribbles": 0,
         "carries": 24,
-        "progr_carries": 0
+        "progr_carries": 0,
+        "interceptions": 0,
+        "ball_recoveries": 6,
+        "successful_tackles": 1,
+        "total_tackles": 6
     },
     "Ann-Katrin Berger": {
         "position": [
@@ -848,7 +1000,11 @@
         "progr_passes_rec": 0,
         "dribbles": 2,
         "carries": 181,
-        "progr_carries": 0
+        "progr_carries": 0,
+        "interceptions": 0,
+        "ball_recoveries": 21,
+        "successful_tackles": 0,
+        "total_tackles": 0
     },
     "Rebecca Knaak": {
         "position": [
@@ -870,7 +1026,11 @@
         "progr_passes_rec": 0,
         "dribbles": 0,
         "carries": 229,
-        "progr_carries": 0
+        "progr_carries": 0,
+        "interceptions": 4,
+        "ball_recoveries": 13,
+        "successful_tackles": 2,
+        "total_tackles": 8
     },
     "Franziska Kett": {
         "position": [
@@ -889,7 +1049,11 @@
         "progr_passes_rec": 2,
         "dribbles": 2,
         "carries": 45,
-        "progr_carries": 0
+        "progr_carries": 0,
+        "interceptions": 9,
+        "ball_recoveries": 16,
+        "successful_tackles": 6,
+        "total_tackles": 15
     },
     "Sara Däbritz": {
         "position": [
@@ -908,7 +1072,11 @@
         "progr_passes_rec": 3,
         "dribbles": 2,
         "carries": 15,
-        "progr_carries": 1
+        "progr_carries": 0,
+        "interceptions": 1,
+        "ball_recoveries": 6,
+        "successful_tackles": 0,
+        "total_tackles": 1
     },
     "Klara Bühl": {
         "position": [
@@ -930,7 +1098,11 @@
         "progr_passes_rec": 39,
         "dribbles": 15,
         "carries": 210,
-        "progr_carries": 59
+        "progr_carries": 0,
+        "interceptions": 5,
+        "ball_recoveries": 30,
+        "successful_tackles": 4,
+        "total_tackles": 9
     },
     "Linda Dallmann": {
         "position": [
@@ -950,7 +1122,11 @@
         "progr_passes_rec": 10,
         "dribbles": 3,
         "carries": 55,
-        "progr_carries": 2
+        "progr_carries": 0,
+        "interceptions": 0,
+        "ball_recoveries": 14,
+        "successful_tackles": 3,
+        "total_tackles": 8
     },
     "Selina Cerci": {
         "position": [
@@ -969,7 +1145,11 @@
         "progr_passes_rec": 8,
         "dribbles": 0,
         "carries": 23,
-        "progr_carries": 2
+        "progr_carries": 0,
+        "interceptions": 1,
+        "ball_recoveries": 4,
+        "successful_tackles": 3,
+        "total_tackles": 4
     },
     "Sydney Lohmann": {
         "position": [
@@ -989,7 +1169,11 @@
         "progr_passes_rec": 1,
         "dribbles": 0,
         "carries": 37,
-        "progr_carries": 1
+        "progr_carries": 0,
+        "interceptions": 0,
+        "ball_recoveries": 2,
+        "successful_tackles": 0,
+        "total_tackles": 0
     },
     "Cristina Martín-Prieto Gutierrez": {
         "position": [
@@ -1008,7 +1192,11 @@
         "progr_passes_rec": 9,
         "dribbles": 1,
         "carries": 12,
-        "progr_carries": 0
+        "progr_carries": 0,
+        "interceptions": 0,
+        "ball_recoveries": 2,
+        "successful_tackles": 0,
+        "total_tackles": 3
     },
     "Lea Schüller": {
         "position": [
@@ -1028,7 +1216,11 @@
         "progr_passes_rec": 23,
         "dribbles": 0,
         "carries": 27,
-        "progr_carries": 3
+        "progr_carries": 0,
+        "interceptions": 0,
+        "ball_recoveries": 8,
+        "successful_tackles": 0,
+        "total_tackles": 1
     },
     "Manuela Giugliano": {
         "position": [
@@ -1050,7 +1242,11 @@
         "progr_passes_rec": 2,
         "dribbles": 0,
         "carries": 110,
-        "progr_carries": 0
+        "progr_carries": 0,
+        "interceptions": 8,
+        "ball_recoveries": 14,
+        "successful_tackles": 3,
+        "total_tackles": 10
     },
     "Arianna Caruso": {
         "position": [
@@ -1072,7 +1268,11 @@
         "progr_passes_rec": 16,
         "dribbles": 9,
         "carries": 157,
-        "progr_carries": 9
+        "progr_carries": 0,
+        "interceptions": 3,
+        "ball_recoveries": 47,
+        "successful_tackles": 3,
+        "total_tackles": 5
     },
     "Lucia Di Guglielmo": {
         "position": [
@@ -1093,7 +1293,11 @@
         "progr_passes_rec": 11,
         "dribbles": 5,
         "carries": 82,
-        "progr_carries": 13
+        "progr_carries": 0,
+        "interceptions": 3,
+        "ball_recoveries": 14,
+        "successful_tackles": 1,
+        "total_tackles": 6
     },
     "Elena Linari": {
         "position": [
@@ -1115,7 +1319,11 @@
         "progr_passes_rec": 0,
         "dribbles": 3,
         "carries": 170,
-        "progr_carries": 3
+        "progr_carries": 0,
+        "interceptions": 3,
+        "ball_recoveries": 24,
+        "successful_tackles": 1,
+        "total_tackles": 5
     },
     "Barbara Bonansea": {
         "position": [
@@ -1135,7 +1343,11 @@
         "progr_passes_rec": 13,
         "dribbles": 2,
         "carries": 52,
-        "progr_carries": 7
+        "progr_carries": 0,
+        "interceptions": 2,
+        "ball_recoveries": 15,
+        "successful_tackles": 0,
+        "total_tackles": 4
     },
     "Esme Beth Morgan": {
         "position": [
@@ -1154,7 +1366,11 @@
         "progr_passes_rec": 0,
         "dribbles": 0,
         "carries": 70,
-        "progr_carries": 0
+        "progr_carries": 0,
+        "interceptions": 0,
+        "ball_recoveries": 6,
+        "successful_tackles": 0,
+        "total_tackles": 4
     },
     "Cecilia Salvai": {
         "position": [
@@ -1176,7 +1392,11 @@
         "progr_passes_rec": 1,
         "dribbles": 0,
         "carries": 158,
-        "progr_carries": 2
+        "progr_carries": 0,
+        "interceptions": 5,
+        "ball_recoveries": 22,
+        "successful_tackles": 2,
+        "total_tackles": 4
     },
     "Elisabetta Oliviero": {
         "position": [
@@ -1197,7 +1417,11 @@
         "progr_passes_rec": 6,
         "dribbles": 1,
         "carries": 95,
-        "progr_carries": 3
+        "progr_carries": 0,
+        "interceptions": 4,
+        "ball_recoveries": 31,
+        "successful_tackles": 5,
+        "total_tackles": 11
     },
     "Martina Lenzini": {
         "position": [
@@ -1218,7 +1442,11 @@
         "progr_passes_rec": 0,
         "dribbles": 0,
         "carries": 76,
-        "progr_carries": 1
+        "progr_carries": 0,
+        "interceptions": 2,
+        "ball_recoveries": 9,
+        "successful_tackles": 1,
+        "total_tackles": 3
     },
     "Laura Giuliani": {
         "position": [
@@ -1240,7 +1468,11 @@
         "progr_passes_rec": 0,
         "dribbles": 0,
         "carries": 80,
-        "progr_carries": 0
+        "progr_carries": 0,
+        "interceptions": 0,
+        "ball_recoveries": 11,
+        "successful_tackles": 0,
+        "total_tackles": 0
     },
     "Cristiana Girelli": {
         "position": [
@@ -1262,7 +1494,11 @@
         "progr_passes_rec": 58,
         "dribbles": 2,
         "carries": 73,
-        "progr_carries": 1
+        "progr_carries": 0,
+        "interceptions": 5,
+        "ball_recoveries": 12,
+        "successful_tackles": 2,
+        "total_tackles": 3
     },
     "Sofia Cantore": {
         "position": [
@@ -1284,7 +1520,11 @@
         "progr_passes_rec": 31,
         "dribbles": 4,
         "carries": 101,
-        "progr_carries": 12
+        "progr_carries": 0,
+        "interceptions": 2,
+        "ball_recoveries": 22,
+        "successful_tackles": 0,
+        "total_tackles": 4
     },
     "Martina Piemonte": {
         "position": [
@@ -1303,7 +1543,11 @@
         "progr_passes_rec": 15,
         "dribbles": 1,
         "carries": 31,
-        "progr_carries": 0
+        "progr_carries": 0,
+        "interceptions": 0,
+        "ball_recoveries": 9,
+        "successful_tackles": 0,
+        "total_tackles": 0
     },
     "Michela Cambiaghi": {
         "position": [
@@ -1323,7 +1567,11 @@
         "progr_passes_rec": 15,
         "dribbles": 3,
         "carries": 37,
-        "progr_carries": 4
+        "progr_carries": 0,
+        "interceptions": 1,
+        "ball_recoveries": 3,
+        "successful_tackles": 0,
+        "total_tackles": 1
     },
     "Emma Severini": {
         "position": [
@@ -1345,7 +1593,11 @@
         "progr_passes_rec": 16,
         "dribbles": 1,
         "carries": 72,
-        "progr_carries": 7
+        "progr_carries": 0,
+        "interceptions": 3,
+        "ball_recoveries": 9,
+        "successful_tackles": 1,
+        "total_tackles": 6
     },
     "Giada Greggi": {
         "position": [
@@ -1366,7 +1618,11 @@
         "progr_passes_rec": 2,
         "dribbles": 1,
         "carries": 41,
-        "progr_carries": 3
+        "progr_carries": 0,
+        "interceptions": 1,
+        "ball_recoveries": 11,
+        "successful_tackles": 3,
+        "total_tackles": 6
     },
     "Julie Piga": {
         "position": [
@@ -1385,7 +1641,11 @@
         "progr_passes_rec": 0,
         "dribbles": 1,
         "carries": 18,
-        "progr_carries": 0
+        "progr_carries": 0,
+        "interceptions": 4,
+        "ball_recoveries": 2,
+        "successful_tackles": 2,
+        "total_tackles": 5
     },
     "Agnes Beever-Jones": {
         "position": [
@@ -1404,7 +1664,11 @@
         "progr_passes_rec": 12,
         "dribbles": 0,
         "carries": 20,
-        "progr_carries": 3
+        "progr_carries": 0,
+        "interceptions": 0,
+        "ball_recoveries": 3,
+        "successful_tackles": 0,
+        "total_tackles": 2
     },
     "Sarai Linder": {
         "position": [
@@ -1425,7 +1689,11 @@
         "progr_passes_rec": 6,
         "dribbles": 0,
         "carries": 123,
-        "progr_carries": 1
+        "progr_carries": 0,
+        "interceptions": 4,
+        "ball_recoveries": 17,
+        "successful_tackles": 4,
+        "total_tackles": 8
     },
     "Maëlle Lakrar": {
         "position": [
@@ -1444,7 +1712,11 @@
         "progr_passes_rec": 0,
         "dribbles": 1,
         "carries": 93,
-        "progr_carries": 5
+        "progr_carries": 0,
+        "interceptions": 2,
+        "ball_recoveries": 10,
+        "successful_tackles": 1,
+        "total_tackles": 8
     },
     "Sjoeke Nüsken": {
         "position": [
@@ -1465,7 +1737,11 @@
         "progr_passes_rec": 17,
         "dribbles": 2,
         "carries": 133,
-        "progr_carries": 0
+        "progr_carries": 0,
+        "interceptions": 7,
+        "ball_recoveries": 28,
+        "successful_tackles": 2,
+        "total_tackles": 14
     },
     "Oriane Jean-François": {
         "position": [
@@ -1485,7 +1761,11 @@
         "progr_passes_rec": 3,
         "dribbles": 1,
         "carries": 116,
-        "progr_carries": 2
+        "progr_carries": 0,
+        "interceptions": 2,
+        "ball_recoveries": 22,
+        "successful_tackles": 2,
+        "total_tackles": 8
     },
     "Delphine Cascarino": {
         "position": [
@@ -1505,7 +1785,11 @@
         "progr_passes_rec": 15,
         "dribbles": 5,
         "carries": 71,
-        "progr_carries": 12
+        "progr_carries": 0,
+        "interceptions": 0,
+        "ball_recoveries": 14,
+        "successful_tackles": 3,
+        "total_tackles": 5
     },
     "Elisa De Almeida": {
         "position": [
@@ -1525,7 +1809,11 @@
         "progr_passes_rec": 3,
         "dribbles": 4,
         "carries": 87,
-        "progr_carries": 5
+        "progr_carries": 0,
+        "interceptions": 4,
+        "ball_recoveries": 13,
+        "successful_tackles": 0,
+        "total_tackles": 5
     },
     "Sakina Karchaoui": {
         "position": [
@@ -1546,7 +1834,11 @@
         "progr_passes_rec": 14,
         "dribbles": 3,
         "carries": 177,
-        "progr_carries": 4
+        "progr_carries": 0,
+        "interceptions": 4,
+        "ball_recoveries": 25,
+        "successful_tackles": 1,
+        "total_tackles": 11
     },
     "Selma Bacha": {
         "position": [
@@ -1567,7 +1859,11 @@
         "progr_passes_rec": 1,
         "dribbles": 2,
         "carries": 201,
-        "progr_carries": 14
+        "progr_carries": 0,
+        "interceptions": 7,
+        "ball_recoveries": 27,
+        "successful_tackles": 2,
+        "total_tackles": 5
     },
     "Kathrin Julia Hendrich": {
         "position": [
@@ -1587,7 +1883,11 @@
         "progr_passes_rec": 0,
         "dribbles": 0,
         "carries": 17,
-        "progr_carries": 2
+        "progr_carries": 0,
+        "interceptions": 0,
+        "ball_recoveries": 2,
+        "successful_tackles": 2,
+        "total_tackles": 7
     },
     "Marie-Antoinette Katoto": {
         "position": [
@@ -1608,7 +1908,11 @@
         "progr_passes_rec": 22,
         "dribbles": 0,
         "carries": 42,
-        "progr_carries": 3
+        "progr_carries": 0,
+        "interceptions": 0,
+        "ball_recoveries": 5,
+        "successful_tackles": 0,
+        "total_tackles": 1
     },
     "Onema Grace Geyoro": {
         "position": [
@@ -1629,7 +1933,11 @@
         "progr_passes_rec": 18,
         "dribbles": 0,
         "carries": 135,
-        "progr_carries": 5
+        "progr_carries": 0,
+        "interceptions": 1,
+        "ball_recoveries": 24,
+        "successful_tackles": 0,
+        "total_tackles": 3
     },
     "Griedge Mbock Bathy Nka": {
         "position": [
@@ -1647,7 +1955,11 @@
         "progr_passes_rec": 0,
         "dribbles": 0,
         "carries": 55,
-        "progr_carries": 0
+        "progr_carries": 0,
+        "interceptions": 2,
+        "ball_recoveries": 2,
+        "successful_tackles": 0,
+        "total_tackles": 1
     },
     "Kadidiatou Diani": {
         "position": [
@@ -1668,7 +1980,11 @@
         "progr_passes_rec": 17,
         "dribbles": 6,
         "carries": 93,
-        "progr_carries": 5
+        "progr_carries": 0,
+        "interceptions": 0,
+        "ball_recoveries": 14,
+        "successful_tackles": 1,
+        "total_tackles": 4
     },
     "Pauline Peyraud Magnin": {
         "position": [
@@ -1689,7 +2005,11 @@
         "progr_passes_rec": 0,
         "dribbles": 0,
         "carries": 38,
-        "progr_carries": 0
+        "progr_carries": 0,
+        "interceptions": 0,
+        "ball_recoveries": 12,
+        "successful_tackles": 0,
+        "total_tackles": 0
     },
     "Sandy Baltimore": {
         "position": [
@@ -1710,7 +2030,11 @@
         "progr_passes_rec": 18,
         "dribbles": 6,
         "carries": 106,
-        "progr_carries": 10
+        "progr_carries": 0,
+        "interceptions": 0,
+        "ball_recoveries": 12,
+        "successful_tackles": 0,
+        "total_tackles": 3
     },
     "Melvine Malard": {
         "position": [
@@ -1730,7 +2054,11 @@
         "progr_passes_rec": 11,
         "dribbles": 1,
         "carries": 65,
-        "progr_carries": 9
+        "progr_carries": 0,
+        "interceptions": 0,
+        "ball_recoveries": 11,
+        "successful_tackles": 0,
+        "total_tackles": 3
     },
     "Clara Mateo": {
         "position": [
@@ -1751,7 +2079,11 @@
         "progr_passes_rec": 19,
         "dribbles": 0,
         "carries": 50,
-        "progr_carries": 7
+        "progr_carries": 0,
+        "interceptions": 0,
+        "ball_recoveries": 7,
+        "successful_tackles": 1,
+        "total_tackles": 1
     },
     "Alice Sombath": {
         "position": [
@@ -1772,7 +2104,11 @@
         "progr_passes_rec": 0,
         "dribbles": 0,
         "carries": 137,
-        "progr_carries": 3
+        "progr_carries": 0,
+        "interceptions": 3,
+        "ball_recoveries": 15,
+        "successful_tackles": 0,
+        "total_tackles": 3
     },
     "Melween Ndongala": {
         "position": [
@@ -1792,7 +2128,11 @@
         "progr_passes_rec": 2,
         "dribbles": 2,
         "carries": 71,
-        "progr_carries": 7
+        "progr_carries": 0,
+        "interceptions": 2,
+        "ball_recoveries": 12,
+        "successful_tackles": 1,
+        "total_tackles": 6
     },
     "Amel Majri": {
         "position": [
@@ -1810,7 +2150,11 @@
         "progr_passes_rec": 8,
         "dribbles": 1,
         "carries": 61,
-        "progr_carries": 1
+        "progr_carries": 0,
+        "interceptions": 0,
+        "ball_recoveries": 9,
+        "successful_tackles": 0,
+        "total_tackles": 1
     },
     "Sydney Schertenleib": {
         "position": [
@@ -1831,7 +2175,11 @@
         "progr_passes_rec": 20,
         "dribbles": 8,
         "carries": 110,
-        "progr_carries": 11
+        "progr_carries": 0,
+        "interceptions": 3,
+        "ball_recoveries": 8,
+        "successful_tackles": 1,
+        "total_tackles": 3
     },
     "Lia Wälti": {
         "position": [
@@ -1852,7 +2200,11 @@
         "progr_passes_rec": 4,
         "dribbles": 8,
         "carries": 194,
-        "progr_carries": 0
+        "progr_carries": 0,
+        "interceptions": 4,
+        "ball_recoveries": 32,
+        "successful_tackles": 4,
+        "total_tackles": 18
     },
     "Viola Calligaris": {
         "position": [
@@ -1873,7 +2225,11 @@
         "progr_passes_rec": 0,
         "dribbles": 3,
         "carries": 119,
-        "progr_carries": 1
+        "progr_carries": 0,
+        "interceptions": 0,
+        "ball_recoveries": 15,
+        "successful_tackles": 4,
+        "total_tackles": 10
     },
     "Iman Beney": {
         "position": [
@@ -1894,7 +2250,11 @@
         "progr_passes_rec": 12,
         "dribbles": 1,
         "carries": 100,
-        "progr_carries": 14
+        "progr_carries": 0,
+        "interceptions": 3,
+        "ball_recoveries": 28,
+        "successful_tackles": 5,
+        "total_tackles": 14
     },
     "Ana-Maria Crnogorčević": {
         "position": [
@@ -1915,7 +2275,11 @@
         "progr_passes_rec": 4,
         "dribbles": 0,
         "carries": 62,
-        "progr_carries": 4
+        "progr_carries": 0,
+        "interceptions": 0,
+        "ball_recoveries": 4,
+        "successful_tackles": 0,
+        "total_tackles": 5
     },
     "Géraldine Reuteler": {
         "position": [
@@ -1936,7 +2300,11 @@
         "progr_passes_rec": 12,
         "dribbles": 5,
         "carries": 167,
-        "progr_carries": 6
+        "progr_carries": 0,
+        "interceptions": 8,
+        "ball_recoveries": 35,
+        "successful_tackles": 6,
+        "total_tackles": 13
     },
     "Noelle Maritz": {
         "position": [
@@ -1957,7 +2325,11 @@
         "progr_passes_rec": 1,
         "dribbles": 4,
         "carries": 169,
-        "progr_carries": 10
+        "progr_carries": 0,
+        "interceptions": 4,
+        "ball_recoveries": 21,
+        "successful_tackles": 4,
+        "total_tackles": 13
     },
     "Noemi Ivelj": {
         "position": [
@@ -1976,7 +2348,11 @@
         "progr_passes_rec": 3,
         "dribbles": 1,
         "carries": 32,
-        "progr_carries": 0
+        "progr_carries": 0,
+        "interceptions": 2,
+        "ball_recoveries": 6,
+        "successful_tackles": 2,
+        "total_tackles": 3
     },
     "Smilla Vallotto": {
         "position": [
@@ -1997,7 +2373,11 @@
         "progr_passes_rec": 11,
         "dribbles": 3,
         "carries": 132,
-        "progr_carries": 7
+        "progr_carries": 0,
+        "interceptions": 2,
+        "ball_recoveries": 25,
+        "successful_tackles": 1,
+        "total_tackles": 6
     },
     "Livia Peng": {
         "position": [
@@ -2018,7 +2398,11 @@
         "progr_passes_rec": 0,
         "dribbles": 0,
         "carries": 62,
-        "progr_carries": 0
+        "progr_carries": 0,
+        "interceptions": 0,
+        "ball_recoveries": 18,
+        "successful_tackles": 0,
+        "total_tackles": 0
     },
     "Nadine Riesen": {
         "position": [
@@ -2039,7 +2423,11 @@
         "progr_passes_rec": 9,
         "dribbles": 2,
         "carries": 112,
-        "progr_carries": 17
+        "progr_carries": 0,
+        "interceptions": 2,
+        "ball_recoveries": 12,
+        "successful_tackles": 2,
+        "total_tackles": 5
     },
     "Alayah Pilgrim": {
         "position": [
@@ -2060,7 +2448,11 @@
         "progr_passes_rec": 15,
         "dribbles": 1,
         "carries": 31,
-        "progr_carries": 5
+        "progr_carries": 0,
+        "interceptions": 0,
+        "ball_recoveries": 4,
+        "successful_tackles": 0,
+        "total_tackles": 1
     },
     "Leila Wandeler": {
         "position": [
@@ -2080,7 +2472,11 @@
         "progr_passes_rec": 6,
         "dribbles": 2,
         "carries": 33,
-        "progr_carries": 13
+        "progr_carries": 0,
+        "interceptions": 0,
+        "ball_recoveries": 4,
+        "successful_tackles": 0,
+        "total_tackles": 2
     },
     "Lucía García Córdoba": {
         "position": [],
@@ -2096,7 +2492,11 @@
         "progr_passes_rec": 0,
         "dribbles": 0,
         "carries": 0,
-        "progr_carries": 0
+        "progr_carries": 0,
+        "interceptions": 0,
+        "ball_recoveries": 0,
+        "successful_tackles": 0,
+        "total_tackles": 0
     },
     "Riola Xhemaili": {
         "position": [
@@ -2116,7 +2516,11 @@
         "progr_passes_rec": 7,
         "dribbles": 0,
         "carries": 18,
-        "progr_carries": 0
+        "progr_carries": 0,
+        "interceptions": 0,
+        "ball_recoveries": 5,
+        "successful_tackles": 1,
+        "total_tackles": 2
     },
     "Alisha Lehmann": {
         "position": [
@@ -2135,7 +2539,11 @@
         "progr_passes_rec": 1,
         "dribbles": 0,
         "carries": 4,
-        "progr_carries": 2
+        "progr_carries": 0,
+        "interceptions": 0,
+        "ball_recoveries": 0,
+        "successful_tackles": 0,
+        "total_tackles": 0
     },
     "Emma Stina Blackstenius": {
         "position": [
@@ -2156,7 +2564,11 @@
         "progr_passes_rec": 50,
         "dribbles": 8,
         "carries": 82,
-        "progr_carries": 6
+        "progr_carries": 0,
+        "interceptions": 0,
+        "ball_recoveries": 18,
+        "successful_tackles": 0,
+        "total_tackles": 1
     },
     "Gun Nathalie Björn": {
         "position": [
@@ -2177,7 +2589,11 @@
         "progr_passes_rec": 1,
         "dribbles": 0,
         "carries": 128,
-        "progr_carries": 4
+        "progr_carries": 0,
+        "interceptions": 4,
+        "ball_recoveries": 27,
+        "successful_tackles": 1,
+        "total_tackles": 4
     },
     "Fridolina Rolfö": {
         "position": [
@@ -2196,7 +2612,11 @@
         "progr_passes_rec": 8,
         "dribbles": 1,
         "carries": 47,
-        "progr_carries": 4
+        "progr_carries": 0,
+        "interceptions": 0,
+        "ball_recoveries": 8,
+        "successful_tackles": 1,
+        "total_tackles": 2
     },
     "Jonna Ann-Charlotte Andersson": {
         "position": [
@@ -2216,7 +2636,11 @@
         "progr_passes_rec": 2,
         "dribbles": 3,
         "carries": 94,
-        "progr_carries": 1
+        "progr_carries": 0,
+        "interceptions": 3,
+        "ball_recoveries": 23,
+        "successful_tackles": 4,
+        "total_tackles": 6
     },
     "Kosovare Asllani": {
         "position": [
@@ -2237,7 +2661,11 @@
         "progr_passes_rec": 25,
         "dribbles": 5,
         "carries": 106,
-        "progr_carries": 7
+        "progr_carries": 0,
+        "interceptions": 0,
+        "ball_recoveries": 23,
+        "successful_tackles": 3,
+        "total_tackles": 5
     },
     "Hanna Lundkvist": {
         "position": [
@@ -2257,7 +2685,11 @@
         "progr_passes_rec": 2,
         "dribbles": 0,
         "carries": 103,
-        "progr_carries": 5
+        "progr_carries": 0,
+        "interceptions": 3,
+        "ball_recoveries": 16,
+        "successful_tackles": 3,
+        "total_tackles": 9
     },
     "Johanna Rytting-Kaneryd": {
         "position": [
@@ -2278,7 +2710,11 @@
         "progr_passes_rec": 32,
         "dribbles": 10,
         "carries": 152,
-        "progr_carries": 32
+        "progr_carries": 0,
+        "interceptions": 0,
+        "ball_recoveries": 19,
+        "successful_tackles": 2,
+        "total_tackles": 7
     },
     "Magdalena Lilly Eriksson": {
         "position": [
@@ -2297,7 +2733,11 @@
         "progr_passes_rec": 0,
         "dribbles": 0,
         "carries": 47,
-        "progr_carries": 0
+        "progr_carries": 0,
+        "interceptions": 1,
+        "ball_recoveries": 3,
+        "successful_tackles": 0,
+        "total_tackles": 0
     },
     "Ingrid Filippa Angeldal": {
         "position": [
@@ -2318,7 +2758,11 @@
         "progr_passes_rec": 13,
         "dribbles": 6,
         "carries": 199,
-        "progr_carries": 5
+        "progr_carries": 0,
+        "interceptions": 5,
+        "ball_recoveries": 54,
+        "successful_tackles": 2,
+        "total_tackles": 6
     },
     "Julia Zigiotti-Olme": {
         "position": [
@@ -2339,7 +2783,11 @@
         "progr_passes_rec": 3,
         "dribbles": 2,
         "carries": 79,
-        "progr_carries": 0
+        "progr_carries": 0,
+        "interceptions": 2,
+        "ball_recoveries": 14,
+        "successful_tackles": 1,
+        "total_tackles": 14
     },
     "Jennifer Miley Falk": {
         "position": [
@@ -2360,7 +2808,11 @@
         "progr_passes_rec": 0,
         "dribbles": 0,
         "carries": 59,
-        "progr_carries": 0
+        "progr_carries": 0,
+        "interceptions": 0,
+        "ball_recoveries": 21,
+        "successful_tackles": 0,
+        "total_tackles": 0
     },
     "Smilla Holmberg": {
         "position": [
@@ -2378,7 +2830,11 @@
         "progr_passes_rec": 2,
         "dribbles": 2,
         "carries": 43,
-        "progr_carries": 4
+        "progr_carries": 0,
+        "interceptions": 1,
+        "ball_recoveries": 11,
+        "successful_tackles": 1,
+        "total_tackles": 4
     },
     "Madelen Fatimma Maria Janogy": {
         "position": [
@@ -2398,7 +2854,11 @@
         "progr_passes_rec": 17,
         "dribbles": 4,
         "carries": 71,
-        "progr_carries": 9
+        "progr_carries": 0,
+        "interceptions": 0,
+        "ball_recoveries": 20,
+        "successful_tackles": 4,
+        "total_tackles": 4
     },
     "Lina Mona Andréa Hurtig": {
         "position": [
@@ -2416,7 +2876,11 @@
         "progr_passes_rec": 16,
         "dribbles": 0,
         "carries": 25,
-        "progr_carries": 3
+        "progr_carries": 0,
+        "interceptions": 1,
+        "ball_recoveries": 2,
+        "successful_tackles": 2,
+        "total_tackles": 4
     },
     "Amanda Nildén": {
         "position": [
@@ -2434,7 +2898,11 @@
         "progr_passes_rec": 0,
         "dribbles": 1,
         "carries": 21,
-        "progr_carries": 1
+        "progr_carries": 0,
+        "interceptions": 0,
+        "ball_recoveries": 8,
+        "successful_tackles": 0,
+        "total_tackles": 2
     },
     "Eva Sofia Jakobsson": {
         "position": [],
@@ -2450,7 +2918,11 @@
         "progr_passes_rec": 3,
         "dribbles": 0,
         "carries": 6,
-        "progr_carries": 0
+        "progr_carries": 0,
+        "interceptions": 0,
+        "ball_recoveries": 2,
+        "successful_tackles": 0,
+        "total_tackles": 0
     },
     "Rebecka Blomqvist": {
         "position": [],
@@ -2466,7 +2938,11 @@
         "progr_passes_rec": 2,
         "dribbles": 0,
         "carries": 8,
-        "progr_carries": 0
+        "progr_carries": 0,
+        "interceptions": 0,
+        "ball_recoveries": 1,
+        "successful_tackles": 0,
+        "total_tackles": 0
     },
     "Guro Reiten": {
         "position": [
@@ -2486,7 +2962,11 @@
         "progr_passes_rec": 9,
         "dribbles": 1,
         "carries": 76,
-        "progr_carries": 2
+        "progr_carries": 0,
+        "interceptions": 3,
+        "ball_recoveries": 13,
+        "successful_tackles": 0,
+        "total_tackles": 4
     },
     "Ingrid Syrstad Engen": {
         "position": [
@@ -2506,7 +2986,11 @@
         "progr_passes_rec": 2,
         "dribbles": 3,
         "carries": 84,
-        "progr_carries": 0
+        "progr_carries": 0,
+        "interceptions": 7,
+        "ball_recoveries": 27,
+        "successful_tackles": 0,
+        "total_tackles": 5
     },
     "Tuva Hansen": {
         "position": [
@@ -2527,7 +3011,11 @@
         "progr_passes_rec": 1,
         "dribbles": 1,
         "carries": 143,
-        "progr_carries": 0
+        "progr_carries": 0,
+        "interceptions": 4,
+        "ball_recoveries": 15,
+        "successful_tackles": 0,
+        "total_tackles": 3
     },
     "Signe Gaupset": {
         "position": [
@@ -2547,7 +3035,11 @@
         "progr_passes_rec": 18,
         "dribbles": 3,
         "carries": 103,
-        "progr_carries": 14
+        "progr_carries": 0,
+        "interceptions": 0,
+        "ball_recoveries": 11,
+        "successful_tackles": 2,
+        "total_tackles": 4
     },
     "Frida Maanum": {
         "position": [
@@ -2568,7 +3060,11 @@
         "progr_passes_rec": 22,
         "dribbles": 2,
         "carries": 93,
-        "progr_carries": 8
+        "progr_carries": 0,
+        "interceptions": 1,
+        "ball_recoveries": 14,
+        "successful_tackles": 0,
+        "total_tackles": 5
     },
     "Lisa Fjeldstad Naalsund": {
         "position": [
@@ -2589,7 +3085,11 @@
         "progr_passes_rec": 3,
         "dribbles": 0,
         "carries": 90,
-        "progr_carries": 2
+        "progr_carries": 0,
+        "interceptions": 5,
+        "ball_recoveries": 15,
+        "successful_tackles": 1,
+        "total_tackles": 7
     },
     "Ada Stolsmo Hegerberg": {
         "position": [
@@ -2609,7 +3109,11 @@
         "progr_passes_rec": 21,
         "dribbles": 1,
         "carries": 36,
-        "progr_carries": 0
+        "progr_carries": 0,
+        "interceptions": 1,
+        "ball_recoveries": 9,
+        "successful_tackles": 1,
+        "total_tackles": 2
     },
     "Maren Nævdal Mjelde": {
         "position": [
@@ -2629,7 +3133,11 @@
         "progr_passes_rec": 2,
         "dribbles": 0,
         "carries": 95,
-        "progr_carries": 2
+        "progr_carries": 0,
+        "interceptions": 1,
+        "ball_recoveries": 8,
+        "successful_tackles": 0,
+        "total_tackles": 2
     },
     "Thea Bjelde": {
         "position": [
@@ -2649,7 +3157,11 @@
         "progr_passes_rec": 5,
         "dribbles": 2,
         "carries": 74,
-        "progr_carries": 1
+        "progr_carries": 0,
+        "interceptions": 1,
+        "ball_recoveries": 10,
+        "successful_tackles": 4,
+        "total_tackles": 12
     },
     "Caroline Graham Hansen": {
         "position": [
@@ -2669,7 +3181,11 @@
         "progr_passes_rec": 15,
         "dribbles": 9,
         "carries": 96,
-        "progr_carries": 14
+        "progr_carries": 0,
+        "interceptions": 0,
+        "ball_recoveries": 20,
+        "successful_tackles": 0,
+        "total_tackles": 2
     },
     "Cecilie Fiskerstrand": {
         "position": [
@@ -2690,7 +3206,11 @@
         "progr_passes_rec": 0,
         "dribbles": 0,
         "carries": 55,
-        "progr_carries": 0
+        "progr_carries": 0,
+        "interceptions": 0,
+        "ball_recoveries": 7,
+        "successful_tackles": 0,
+        "total_tackles": 0
     },
     "Elisabeth Terland": {
         "position": [
@@ -2709,7 +3229,11 @@
         "progr_passes_rec": 9,
         "dribbles": 0,
         "carries": 19,
-        "progr_carries": 4
+        "progr_carries": 0,
+        "interceptions": 0,
+        "ball_recoveries": 1,
+        "successful_tackles": 0,
+        "total_tackles": 1
     },
     "Emilie Marie Woldvik": {
         "position": [
@@ -2727,7 +3251,11 @@
         "progr_passes_rec": 1,
         "dribbles": 0,
         "carries": 29,
-        "progr_carries": 3
+        "progr_carries": 0,
+        "interceptions": 1,
+        "ball_recoveries": 5,
+        "successful_tackles": 0,
+        "total_tackles": 2
     },
     "Lily Woodham": {
         "position": [
@@ -2747,7 +3275,11 @@
         "progr_passes_rec": 3,
         "dribbles": 0,
         "carries": 31,
-        "progr_carries": 1
+        "progr_carries": 0,
+        "interceptions": 3,
+        "ball_recoveries": 11,
+        "successful_tackles": 0,
+        "total_tackles": 4
     },
     "Gemma Evans": {
         "position": [
@@ -2767,7 +3299,11 @@
         "progr_passes_rec": 0,
         "dribbles": 0,
         "carries": 47,
-        "progr_carries": 0
+        "progr_carries": 0,
+        "interceptions": 3,
+        "ball_recoveries": 3,
+        "successful_tackles": 1,
+        "total_tackles": 3
     },
     "Ceri Holland": {
         "position": [
@@ -2787,7 +3323,11 @@
         "progr_passes_rec": 7,
         "dribbles": 5,
         "carries": 44,
-        "progr_carries": 6
+        "progr_carries": 0,
+        "interceptions": 1,
+        "ball_recoveries": 13,
+        "successful_tackles": 1,
+        "total_tackles": 3
     },
     "Jessica Fishlock": {
         "position": [
@@ -2807,7 +3347,11 @@
         "progr_passes_rec": 12,
         "dribbles": 0,
         "carries": 39,
-        "progr_carries": 4
+        "progr_carries": 0,
+        "interceptions": 1,
+        "ball_recoveries": 9,
+        "successful_tackles": 0,
+        "total_tackles": 0
     },
     "Ffion Morgan": {
         "position": [
@@ -2827,7 +3371,11 @@
         "progr_passes_rec": 12,
         "dribbles": 1,
         "carries": 26,
-        "progr_carries": 1
+        "progr_carries": 0,
+        "interceptions": 2,
+        "ball_recoveries": 5,
+        "successful_tackles": 0,
+        "total_tackles": 1
     },
     "Rachel Rowe": {
         "position": [
@@ -2847,7 +3395,11 @@
         "progr_passes_rec": 4,
         "dribbles": 3,
         "carries": 39,
-        "progr_carries": 1
+        "progr_carries": 0,
+        "interceptions": 3,
+        "ball_recoveries": 10,
+        "successful_tackles": 4,
+        "total_tackles": 10
     },
     "Angharad James": {
         "position": [
@@ -2867,7 +3419,11 @@
         "progr_passes_rec": 2,
         "dribbles": 0,
         "carries": 51,
-        "progr_carries": 1
+        "progr_carries": 0,
+        "interceptions": 7,
+        "ball_recoveries": 13,
+        "successful_tackles": 3,
+        "total_tackles": 12
     },
     "Esther Morgan": {
         "position": [
@@ -2887,7 +3443,11 @@
         "progr_passes_rec": 0,
         "dribbles": 1,
         "carries": 31,
-        "progr_carries": 0
+        "progr_carries": 0,
+        "interceptions": 3,
+        "ball_recoveries": 6,
+        "successful_tackles": 1,
+        "total_tackles": 10
     },
     "Rhiannon Roberts": {
         "position": [
@@ -2907,7 +3467,11 @@
         "progr_passes_rec": 0,
         "dribbles": 0,
         "carries": 45,
-        "progr_carries": 0
+        "progr_carries": 0,
+        "interceptions": 2,
+        "ball_recoveries": 2,
+        "successful_tackles": 2,
+        "total_tackles": 3
     },
     "Carrie Jones": {
         "position": [
@@ -2926,7 +3490,11 @@
         "progr_passes_rec": 4,
         "dribbles": 2,
         "carries": 25,
-        "progr_carries": 3
+        "progr_carries": 0,
+        "interceptions": 0,
+        "ball_recoveries": 7,
+        "successful_tackles": 1,
+        "total_tackles": 4
     },
     "Olivia Clarke": {
         "position": [
@@ -2945,7 +3513,11 @@
         "progr_passes_rec": 0,
         "dribbles": 0,
         "carries": 32,
-        "progr_carries": 0
+        "progr_carries": 0,
+        "interceptions": 0,
+        "ball_recoveries": 11,
+        "successful_tackles": 0,
+        "total_tackles": 0
     },
     "Jessica Park": {
         "position": [
@@ -2963,7 +3535,11 @@
         "progr_passes_rec": 3,
         "dribbles": 0,
         "carries": 26,
-        "progr_carries": 0
+        "progr_carries": 0,
+        "interceptions": 0,
+        "ball_recoveries": 0,
+        "successful_tackles": 0,
+        "total_tackles": 0
     },
     "Josie Green": {
         "position": [
@@ -2983,7 +3559,11 @@
         "progr_passes_rec": 0,
         "dribbles": 0,
         "carries": 41,
-        "progr_carries": 0
+        "progr_carries": 0,
+        "interceptions": 4,
+        "ball_recoveries": 14,
+        "successful_tackles": 1,
+        "total_tackles": 5
     },
     "Hayley Ladd": {
         "position": [
@@ -3001,7 +3581,11 @@
         "progr_passes_rec": 0,
         "dribbles": 0,
         "carries": 18,
-        "progr_carries": 0
+        "progr_carries": 0,
+        "interceptions": 1,
+        "ball_recoveries": 2,
+        "successful_tackles": 0,
+        "total_tackles": 3
     },
     "Hannah Cain": {
         "position": [
@@ -3020,7 +3604,11 @@
         "progr_passes_rec": 4,
         "dribbles": 2,
         "carries": 18,
-        "progr_carries": 1
+        "progr_carries": 0,
+        "interceptions": 1,
+        "ball_recoveries": 5,
+        "successful_tackles": 2,
+        "total_tackles": 2
     },
     "Elise Hughes": {
         "position": [],
@@ -3036,7 +3624,11 @@
         "progr_passes_rec": 0,
         "dribbles": 0,
         "carries": 1,
-        "progr_carries": 0
+        "progr_carries": 0,
+        "interceptions": 0,
+        "ball_recoveries": 0,
+        "successful_tackles": 0,
+        "total_tackles": 0
     },
     "Kayleigh Anne Marie Barton": {
         "position": [
@@ -3055,7 +3647,11 @@
         "progr_passes_rec": 8,
         "dribbles": 1,
         "carries": 20,
-        "progr_carries": 0
+        "progr_carries": 0,
+        "interceptions": 1,
+        "ball_recoveries": 3,
+        "successful_tackles": 1,
+        "total_tackles": 1
     },
     "Danielle van de Donk": {
         "position": [
@@ -3074,7 +3670,11 @@
         "progr_passes_rec": 14,
         "dribbles": 1,
         "carries": 64,
-        "progr_carries": 3
+        "progr_carries": 0,
+        "interceptions": 3,
+        "ball_recoveries": 11,
+        "successful_tackles": 0,
+        "total_tackles": 3
     },
     "Dominique Johanna Anna Petrone Janssen": {
         "position": [
@@ -3094,7 +3694,11 @@
         "progr_passes_rec": 2,
         "dribbles": 2,
         "carries": 134,
-        "progr_carries": 1
+        "progr_carries": 0,
+        "interceptions": 0,
+        "ball_recoveries": 12,
+        "successful_tackles": 3,
+        "total_tackles": 7
     },
     "Thiniba Samoura": {
         "position": [
@@ -3113,7 +3717,11 @@
         "progr_passes_rec": 0,
         "dribbles": 2,
         "carries": 97,
-        "progr_carries": 3
+        "progr_carries": 0,
+        "interceptions": 3,
+        "ball_recoveries": 10,
+        "successful_tackles": 0,
+        "total_tackles": 2
     },
     "Chasity Grant": {
         "position": [
@@ -3133,7 +3741,11 @@
         "progr_passes_rec": 12,
         "dribbles": 1,
         "carries": 55,
-        "progr_carries": 5
+        "progr_carries": 0,
+        "interceptions": 0,
+        "ball_recoveries": 4,
+        "successful_tackles": 1,
+        "total_tackles": 4
     },
     "Daphne van Domselaar": {
         "position": [
@@ -3153,7 +3765,11 @@
         "progr_passes_rec": 0,
         "dribbles": 0,
         "carries": 82,
-        "progr_carries": 0
+        "progr_carries": 0,
+        "interceptions": 0,
+        "ball_recoveries": 10,
+        "successful_tackles": 0,
+        "total_tackles": 0
     },
     "Sherida Spitse": {
         "position": [
@@ -3173,7 +3789,11 @@
         "progr_passes_rec": 0,
         "dribbles": 0,
         "carries": 72,
-        "progr_carries": 1
+        "progr_carries": 0,
+        "interceptions": 1,
+        "ball_recoveries": 11,
+        "successful_tackles": 1,
+        "total_tackles": 4
     },
     "Jill Roord": {
         "position": [
@@ -3193,7 +3813,11 @@
         "progr_passes_rec": 6,
         "dribbles": 2,
         "carries": 55,
-        "progr_carries": 5
+        "progr_carries": 0,
+        "interceptions": 2,
+        "ball_recoveries": 10,
+        "successful_tackles": 0,
+        "total_tackles": 1
     },
     "Kerstin Yasmijn Casparij": {
         "position": [
@@ -3213,7 +3837,11 @@
         "progr_passes_rec": 5,
         "dribbles": 1,
         "carries": 104,
-        "progr_carries": 5
+        "progr_carries": 0,
+        "interceptions": 1,
+        "ball_recoveries": 12,
+        "successful_tackles": 1,
+        "total_tackles": 4
     },
     "Jackie Groenen": {
         "position": [
@@ -3233,7 +3861,11 @@
         "progr_passes_rec": 1,
         "dribbles": 1,
         "carries": 93,
-        "progr_carries": 0
+        "progr_carries": 0,
+        "interceptions": 4,
+        "ball_recoveries": 28,
+        "successful_tackles": 3,
+        "total_tackles": 9
     },
     "Lynn Wilms": {
         "position": [
@@ -3252,7 +3884,11 @@
         "progr_passes_rec": 1,
         "dribbles": 0,
         "carries": 38,
-        "progr_carries": 2
+        "progr_carries": 0,
+        "interceptions": 0,
+        "ball_recoveries": 4,
+        "successful_tackles": 2,
+        "total_tackles": 5
     },
     "Victoria Pelova": {
         "position": [
@@ -3272,7 +3908,11 @@
         "progr_passes_rec": 12,
         "dribbles": 2,
         "carries": 104,
-        "progr_carries": 2
+        "progr_carries": 0,
+        "interceptions": 3,
+        "ball_recoveries": 21,
+        "successful_tackles": 2,
+        "total_tackles": 7
     },
     "Lineth Beerensteyn": {
         "position": [
@@ -3292,7 +3932,11 @@
         "progr_passes_rec": 13,
         "dribbles": 0,
         "carries": 18,
-        "progr_carries": 3
+        "progr_carries": 0,
+        "interceptions": 0,
+        "ball_recoveries": 6,
+        "successful_tackles": 1,
+        "total_tackles": 1
     },
     "Sandie Toletti": {
         "position": [
@@ -3312,7 +3956,11 @@
         "progr_passes_rec": 1,
         "dribbles": 0,
         "carries": 58,
-        "progr_carries": 2
+        "progr_carries": 0,
+        "interceptions": 2,
+        "ball_recoveries": 4,
+        "successful_tackles": 0,
+        "total_tackles": 1
     },
     "Esmee Brugts": {
         "position": [
@@ -3332,7 +3980,11 @@
         "progr_passes_rec": 5,
         "dribbles": 2,
         "carries": 58,
-        "progr_carries": 5
+        "progr_carries": 0,
+        "interceptions": 4,
+        "ball_recoveries": 11,
+        "successful_tackles": 0,
+        "total_tackles": 5
     },
     "Wieke Hendrikje Maria Kaptein": {
         "position": [
@@ -3352,7 +4004,11 @@
         "progr_passes_rec": 10,
         "dribbles": 3,
         "carries": 76,
-        "progr_carries": 3
+        "progr_carries": 0,
+        "interceptions": 2,
+        "ball_recoveries": 14,
+        "successful_tackles": 2,
+        "total_tackles": 5
     },
     "Lou Bogaert": {
         "position": [
@@ -3371,7 +4027,11 @@
         "progr_passes_rec": 0,
         "dribbles": 0,
         "carries": 30,
-        "progr_carries": 0
+        "progr_carries": 0,
+        "interceptions": 2,
+        "ball_recoveries": 2,
+        "successful_tackles": 1,
+        "total_tackles": 4
     },
     "Caitlin Dijkstra": {
         "position": [
@@ -3390,7 +4050,11 @@
         "progr_passes_rec": 0,
         "dribbles": 0,
         "carries": 35,
-        "progr_carries": 5
+        "progr_carries": 0,
+        "interceptions": 0,
+        "ball_recoveries": 2,
+        "successful_tackles": 0,
+        "total_tackles": 0
     },
     "Damaris Berta Egurrola Wienke": {
         "position": [
@@ -3408,7 +4072,11 @@
         "progr_passes_rec": 1,
         "dribbles": 0,
         "carries": 4,
-        "progr_carries": 0
+        "progr_carries": 0,
+        "interceptions": 0,
+        "ball_recoveries": 4,
+        "successful_tackles": 0,
+        "total_tackles": 0
     },
     "Renate Jansen": {
         "position": [],
@@ -3424,7 +4092,11 @@
         "progr_passes_rec": 0,
         "dribbles": 0,
         "carries": 1,
-        "progr_carries": 1
+        "progr_carries": 0,
+        "interceptions": 0,
+        "ball_recoveries": 0,
+        "successful_tackles": 0,
+        "total_tackles": 0
     },
     "Josefine Hasbo": {
         "position": [
@@ -3444,7 +4116,11 @@
         "progr_passes_rec": 0,
         "dribbles": 0,
         "carries": 47,
-        "progr_carries": 0
+        "progr_carries": 0,
+        "interceptions": 2,
+        "ball_recoveries": 6,
+        "successful_tackles": 5,
+        "total_tackles": 9
     },
     "Stine Ballisager Pedersen": {
         "position": [
@@ -3464,7 +4140,11 @@
         "progr_passes_rec": 1,
         "dribbles": 0,
         "carries": 80,
-        "progr_carries": 0
+        "progr_carries": 0,
+        "interceptions": 1,
+        "ball_recoveries": 9,
+        "successful_tackles": 0,
+        "total_tackles": 2
     },
     "Sylwia Matysik": {
         "position": [
@@ -3484,7 +4164,11 @@
         "progr_passes_rec": 2,
         "dribbles": 0,
         "carries": 53,
-        "progr_carries": 2
+        "progr_carries": 0,
+        "interceptions": 7,
+        "ball_recoveries": 12,
+        "successful_tackles": 6,
+        "total_tackles": 15
     },
     "Katrine Veje": {
         "position": [
@@ -3504,7 +4188,11 @@
         "progr_passes_rec": 1,
         "dribbles": 0,
         "carries": 109,
-        "progr_carries": 7
+        "progr_carries": 0,
+        "interceptions": 3,
+        "ball_recoveries": 28,
+        "successful_tackles": 1,
+        "total_tackles": 4
     },
     "Emma Skou Færge": {
         "position": [
@@ -3524,7 +4212,11 @@
         "progr_passes_rec": 1,
         "dribbles": 1,
         "carries": 81,
-        "progr_carries": 3
+        "progr_carries": 0,
+        "interceptions": 5,
+        "ball_recoveries": 12,
+        "successful_tackles": 1,
+        "total_tackles": 6
     },
     "Paulina Tomasiak": {
         "position": [
@@ -3544,7 +4236,11 @@
         "progr_passes_rec": 10,
         "dribbles": 2,
         "carries": 83,
-        "progr_carries": 6
+        "progr_carries": 0,
+        "interceptions": 1,
+        "ball_recoveries": 19,
+        "successful_tackles": 4,
+        "total_tackles": 8
     },
     "Frederikke Thøgersen": {
         "position": [
@@ -3564,7 +4260,11 @@
         "progr_passes_rec": 3,
         "dribbles": 1,
         "carries": 80,
-        "progr_carries": 6
+        "progr_carries": 0,
+        "interceptions": 3,
+        "ball_recoveries": 15,
+        "successful_tackles": 2,
+        "total_tackles": 7
     },
     "Sara Holmgaard": {
         "position": [
@@ -3584,7 +4284,11 @@
         "progr_passes_rec": 3,
         "dribbles": 1,
         "carries": 64,
-        "progr_carries": 0
+        "progr_carries": 0,
+        "interceptions": 2,
+        "ball_recoveries": 13,
+        "successful_tackles": 2,
+        "total_tackles": 6
     },
     "Ewa Pajor": {
         "position": [
@@ -3604,7 +4308,11 @@
         "progr_passes_rec": 42,
         "dribbles": 5,
         "carries": 68,
-        "progr_carries": 9
+        "progr_carries": 0,
+        "interceptions": 1,
+        "ball_recoveries": 10,
+        "successful_tackles": 0,
+        "total_tackles": 5
     },
     "Adriana Achcińska": {
         "position": [
@@ -3624,7 +4332,11 @@
         "progr_passes_rec": 5,
         "dribbles": 0,
         "carries": 68,
-        "progr_carries": 1
+        "progr_carries": 0,
+        "interceptions": 3,
+        "ball_recoveries": 19,
+        "successful_tackles": 4,
+        "total_tackles": 7
     },
     "Kathrine Møller Kühl": {
         "position": [
@@ -3642,7 +4354,11 @@
         "progr_passes_rec": 4,
         "dribbles": 1,
         "carries": 45,
-        "progr_carries": 1
+        "progr_carries": 0,
+        "interceptions": 0,
+        "ball_recoveries": 4,
+        "successful_tackles": 0,
+        "total_tackles": 2
     },
     "Wiktoria Zieniewicz": {
         "position": [
@@ -3661,7 +4377,11 @@
         "progr_passes_rec": 0,
         "dribbles": 0,
         "carries": 32,
-        "progr_carries": 2
+        "progr_carries": 0,
+        "interceptions": 1,
+        "ball_recoveries": 7,
+        "successful_tackles": 1,
+        "total_tackles": 1
     },
     "Pernille Mosegaard Harder": {
         "position": [
@@ -3681,7 +4401,11 @@
         "progr_passes_rec": 14,
         "dribbles": 0,
         "carries": 54,
-        "progr_carries": 10
+        "progr_carries": 0,
+        "interceptions": 0,
+        "ball_recoveries": 14,
+        "successful_tackles": 0,
+        "total_tackles": 2
     },
     "Natalia Padilla-Bidas": {
         "position": [
@@ -3701,7 +4425,11 @@
         "progr_passes_rec": 13,
         "dribbles": 1,
         "carries": 46,
-        "progr_carries": 2
+        "progr_carries": 0,
+        "interceptions": 2,
+        "ball_recoveries": 12,
+        "successful_tackles": 0,
+        "total_tackles": 2
     },
     "Emilia Urszula Szymczak": {
         "position": [
@@ -3721,7 +4449,11 @@
         "progr_passes_rec": 0,
         "dribbles": 0,
         "carries": 80,
-        "progr_carries": 0
+        "progr_carries": 0,
+        "interceptions": 1,
+        "ball_recoveries": 10,
+        "successful_tackles": 1,
+        "total_tackles": 7
     },
     "Tanja Pawollek": {
         "position": [
@@ -3741,7 +4473,11 @@
         "progr_passes_rec": 2,
         "dribbles": 0,
         "carries": 44,
-        "progr_carries": 0
+        "progr_carries": 0,
+        "interceptions": 1,
+        "ball_recoveries": 13,
+        "successful_tackles": 2,
+        "total_tackles": 3
     },
     "Oliwia Woś": {
         "position": [
@@ -3761,7 +4497,11 @@
         "progr_passes_rec": 0,
         "dribbles": 1,
         "carries": 102,
-        "progr_carries": 0
+        "progr_carries": 0,
+        "interceptions": 0,
+        "ball_recoveries": 6,
+        "successful_tackles": 0,
+        "total_tackles": 3
     },
     "Maja Bay Østergaard": {
         "position": [
@@ -3781,7 +4521,11 @@
         "progr_passes_rec": 0,
         "dribbles": 0,
         "carries": 27,
-        "progr_carries": 0
+        "progr_carries": 0,
+        "interceptions": 0,
+        "ball_recoveries": 13,
+        "successful_tackles": 0,
+        "total_tackles": 0
     },
     "Ewelina Kamczyk": {
         "position": [
@@ -3801,7 +4545,11 @@
         "progr_passes_rec": 10,
         "dribbles": 3,
         "carries": 77,
-        "progr_carries": 5
+        "progr_carries": 0,
+        "interceptions": 1,
+        "ball_recoveries": 24,
+        "successful_tackles": 3,
+        "total_tackles": 6
     },
     "Signe Kallesøe Bruun": {
         "position": [
@@ -3821,7 +4569,11 @@
         "progr_passes_rec": 20,
         "dribbles": 0,
         "carries": 23,
-        "progr_carries": 1
+        "progr_carries": 0,
+        "interceptions": 0,
+        "ball_recoveries": 1,
+        "successful_tackles": 0,
+        "total_tackles": 2
     },
     "Kinga Szemik": {
         "position": [
@@ -3841,7 +4593,11 @@
         "progr_passes_rec": 0,
         "dribbles": 0,
         "carries": 70,
-        "progr_carries": 0
+        "progr_carries": 0,
+        "interceptions": 0,
+        "ball_recoveries": 11,
+        "successful_tackles": 0,
+        "total_tackles": 0
     },
     "Janni Thomsen": {
         "position": [
@@ -3861,7 +4617,11 @@
         "progr_passes_rec": 9,
         "dribbles": 4,
         "carries": 72,
-        "progr_carries": 15
+        "progr_carries": 0,
+        "interceptions": 4,
+        "ball_recoveries": 22,
+        "successful_tackles": 1,
+        "total_tackles": 5
     },
     "Sofie Bruun Bredgaard": {
         "position": [
@@ -3879,7 +4639,11 @@
         "progr_passes_rec": 5,
         "dribbles": 0,
         "carries": 31,
-        "progr_carries": 0
+        "progr_carries": 0,
+        "interceptions": 0,
+        "ball_recoveries": 3,
+        "successful_tackles": 0,
+        "total_tackles": 0
     },
     "Martyna Wiankowska": {
         "position": [
@@ -3899,7 +4663,11 @@
         "progr_passes_rec": 1,
         "dribbles": 0,
         "carries": 43,
-        "progr_carries": 6
+        "progr_carries": 0,
+        "interceptions": 4,
+        "ball_recoveries": 8,
+        "successful_tackles": 1,
+        "total_tackles": 3
     },
     "Milena Kokosz": {
         "position": [
@@ -3918,7 +4686,11 @@
         "progr_passes_rec": 0,
         "dribbles": 1,
         "carries": 16,
-        "progr_carries": 3
+        "progr_carries": 0,
+        "interceptions": 0,
+        "ball_recoveries": 5,
+        "successful_tackles": 1,
+        "total_tackles": 1
     },
     "Karen Holmgaard": {
         "position": [
@@ -3938,7 +4710,11 @@
         "progr_passes_rec": 1,
         "dribbles": 1,
         "carries": 39,
-        "progr_carries": 2
+        "progr_carries": 0,
+        "interceptions": 1,
+        "ball_recoveries": 9,
+        "successful_tackles": 2,
+        "total_tackles": 5
     },
     "Nadia Nadim": {
         "position": [
@@ -3958,7 +4734,11 @@
         "progr_passes_rec": 6,
         "dribbles": 1,
         "carries": 16,
-        "progr_carries": 1
+        "progr_carries": 0,
+        "interceptions": 1,
+        "ball_recoveries": 6,
+        "successful_tackles": 1,
+        "total_tackles": 1
     },
     "Klaudia Jedlińska": {
         "position": [
@@ -3976,7 +4756,11 @@
         "progr_passes_rec": 2,
         "dribbles": 0,
         "carries": 6,
-        "progr_carries": 0
+        "progr_carries": 0,
+        "interceptions": 0,
+        "ball_recoveries": 1,
+        "successful_tackles": 0,
+        "total_tackles": 0
     },
     "Amalie Jørgensen Vangsgaard": {
         "position": [
@@ -3996,7 +4780,11 @@
         "progr_passes_rec": 5,
         "dribbles": 0,
         "carries": 24,
-        "progr_carries": 1
+        "progr_carries": 0,
+        "interceptions": 0,
+        "ball_recoveries": 3,
+        "successful_tackles": 1,
+        "total_tackles": 3
     },
     "Klaudia Słowińska": {
         "position": [
@@ -4015,7 +4803,11 @@
         "progr_passes_rec": 3,
         "dribbles": 0,
         "carries": 7,
-        "progr_carries": 1
+        "progr_carries": 0,
+        "interceptions": 0,
+        "ball_recoveries": 1,
+        "successful_tackles": 0,
+        "total_tackles": 0
     },
     "Laura Freigang": {
         "position": [
@@ -4035,7 +4827,11 @@
         "progr_passes_rec": 14,
         "dribbles": 0,
         "carries": 36,
-        "progr_carries": 4
+        "progr_carries": 0,
+        "interceptions": 1,
+        "ball_recoveries": 6,
+        "successful_tackles": 0,
+        "total_tackles": 1
     },
     "Hanna Ulrika Bennison": {
         "position": [
@@ -4053,7 +4849,11 @@
         "progr_passes_rec": 0,
         "dribbles": 1,
         "carries": 47,
-        "progr_carries": 0
+        "progr_carries": 0,
+        "interceptions": 1,
+        "ball_recoveries": 8,
+        "successful_tackles": 1,
+        "total_tackles": 4
     },
     "Linda Brigitta Sembrant": {
         "position": [
@@ -4072,7 +4872,11 @@
         "progr_passes_rec": 0,
         "dribbles": 0,
         "carries": 43,
-        "progr_carries": 0
+        "progr_carries": 0,
+        "interceptions": 0,
+        "ball_recoveries": 5,
+        "successful_tackles": 0,
+        "total_tackles": 0
     },
     "Ellen Wangerheim": {
         "position": [
@@ -4090,7 +4894,11 @@
         "progr_passes_rec": 5,
         "dribbles": 0,
         "carries": 7,
-        "progr_carries": 1
+        "progr_carries": 0,
+        "interceptions": 0,
+        "ball_recoveries": 2,
+        "successful_tackles": 0,
+        "total_tackles": 1
     },
     "Jana Fernandez Velasco": {
         "position": [
@@ -4109,7 +4917,11 @@
         "progr_passes_rec": 1,
         "dribbles": 0,
         "carries": 90,
-        "progr_carries": 0
+        "progr_carries": 0,
+        "interceptions": 1,
+        "ball_recoveries": 7,
+        "successful_tackles": 0,
+        "total_tackles": 1
     },
     "Lisa Boattin": {
         "position": [
@@ -4129,7 +4941,11 @@
         "progr_passes_rec": 0,
         "dribbles": 3,
         "carries": 85,
-        "progr_carries": 2
+        "progr_carries": 0,
+        "interceptions": 2,
+        "ball_recoveries": 16,
+        "successful_tackles": 2,
+        "total_tackles": 8
     },
     "Adriana Nanclares Romero": {
         "position": [
@@ -4149,7 +4965,11 @@
         "progr_passes_rec": 0,
         "dribbles": 0,
         "carries": 59,
-        "progr_carries": 0
+        "progr_carries": 0,
+        "interceptions": 0,
+        "ball_recoveries": 8,
+        "successful_tackles": 0,
+        "total_tackles": 0
     },
     "Annamaria Serturini": {
         "position": [
@@ -4167,7 +4987,11 @@
         "progr_passes_rec": 0,
         "dribbles": 0,
         "carries": 0,
-        "progr_carries": 0
+        "progr_carries": 0,
+        "interceptions": 0,
+        "ball_recoveries": 1,
+        "successful_tackles": 0,
+        "total_tackles": 0
     },
     "Maite Zubieta Aranbarri": {
         "position": [],
@@ -4183,7 +5007,11 @@
         "progr_passes_rec": 0,
         "dribbles": 0,
         "carries": 5,
-        "progr_carries": 0
+        "progr_carries": 0,
+        "interceptions": 0,
+        "ball_recoveries": 1,
+        "successful_tackles": 0,
+        "total_tackles": 1
     },
     "Diana Micaela Abreu de Sousa e Silva": {
         "position": [
@@ -4203,7 +5031,11 @@
         "progr_passes_rec": 19,
         "dribbles": 2,
         "carries": 57,
-        "progr_carries": 3
+        "progr_carries": 0,
+        "interceptions": 0,
+        "ball_recoveries": 12,
+        "successful_tackles": 3,
+        "total_tackles": 3
     },
     "Fátima Alexandra Figueira Pinto": {
         "position": [
@@ -4223,7 +5055,11 @@
         "progr_passes_rec": 7,
         "dribbles": 2,
         "carries": 91,
-        "progr_carries": 1
+        "progr_carries": 0,
+        "interceptions": 6,
+        "ball_recoveries": 14,
+        "successful_tackles": 3,
+        "total_tackles": 5
     },
     "Joana Filipa Gaspar Silva Marchão": {
         "position": [
@@ -4242,7 +5078,11 @@
         "progr_passes_rec": 1,
         "dribbles": 0,
         "carries": 67,
-        "progr_carries": 2
+        "progr_carries": 0,
+        "interceptions": 1,
+        "ball_recoveries": 7,
+        "successful_tackles": 2,
+        "total_tackles": 7
     },
     "Carole da Silva Costa": {
         "position": [
@@ -4262,7 +5102,11 @@
         "progr_passes_rec": 1,
         "dribbles": 0,
         "carries": 69,
-        "progr_carries": 3
+        "progr_carries": 0,
+        "interceptions": 5,
+        "ball_recoveries": 4,
+        "successful_tackles": 0,
+        "total_tackles": 5
     },
     "Diana Catarina Ribeiro Gomes": {
         "position": [
@@ -4282,7 +5126,11 @@
         "progr_passes_rec": 1,
         "dribbles": 1,
         "carries": 97,
-        "progr_carries": 2
+        "progr_carries": 0,
+        "interceptions": 3,
+        "ball_recoveries": 22,
+        "successful_tackles": 2,
+        "total_tackles": 10
     },
     "Catarina Amado": {
         "position": [
@@ -4302,7 +5150,11 @@
         "progr_passes_rec": 0,
         "dribbles": 7,
         "carries": 55,
-        "progr_carries": 2
+        "progr_carries": 0,
+        "interceptions": 3,
+        "ball_recoveries": 6,
+        "successful_tackles": 1,
+        "total_tackles": 7
     },
     "Jassina Blom": {
         "position": [
@@ -4321,7 +5173,11 @@
         "progr_passes_rec": 1,
         "dribbles": 0,
         "carries": 14,
-        "progr_carries": 0
+        "progr_carries": 0,
+        "interceptions": 0,
+        "ball_recoveries": 2,
+        "successful_tackles": 1,
+        "total_tackles": 2
     },
     "Jarne Teulings": {
         "position": [
@@ -4341,7 +5197,11 @@
         "progr_passes_rec": 2,
         "dribbles": 1,
         "carries": 79,
-        "progr_carries": 0
+        "progr_carries": 0,
+        "interceptions": 1,
+        "ball_recoveries": 6,
+        "successful_tackles": 2,
+        "total_tackles": 7
     },
     "Jill Janssens": {
         "position": [
@@ -4361,7 +5221,11 @@
         "progr_passes_rec": 5,
         "dribbles": 1,
         "carries": 62,
-        "progr_carries": 3
+        "progr_carries": 0,
+        "interceptions": 1,
+        "ball_recoveries": 9,
+        "successful_tackles": 2,
+        "total_tackles": 4
     },
     "Tatiana Vanessa Ferreira Pinto": {
         "position": [
@@ -4381,7 +5245,11 @@
         "progr_passes_rec": 3,
         "dribbles": 1,
         "carries": 70,
-        "progr_carries": 2
+        "progr_carries": 0,
+        "interceptions": 4,
+        "ball_recoveries": 17,
+        "successful_tackles": 1,
+        "total_tackles": 5
     },
     "Justine Vanhaevermaet": {
         "position": [
@@ -4401,7 +5269,11 @@
         "progr_passes_rec": 8,
         "dribbles": 0,
         "carries": 49,
-        "progr_carries": 3
+        "progr_carries": 0,
+        "interceptions": 1,
+        "ball_recoveries": 16,
+        "successful_tackles": 2,
+        "total_tackles": 5
     },
     "Patricia Isabel Sousa Barros Morais": {
         "position": [
@@ -4420,7 +5292,11 @@
         "progr_passes_rec": 0,
         "dribbles": 0,
         "carries": 13,
-        "progr_carries": 0
+        "progr_carries": 0,
+        "interceptions": 0,
+        "ball_recoveries": 3,
+        "successful_tackles": 0,
+        "total_tackles": 0
     },
     "Francisca Ramos Ribeiro Nazareth Sousa": {
         "position": [
@@ -4439,7 +5315,11 @@
         "progr_passes_rec": 17,
         "dribbles": 5,
         "carries": 99,
-        "progr_carries": 9
+        "progr_carries": 0,
+        "interceptions": 1,
+        "ball_recoveries": 17,
+        "successful_tackles": 1,
+        "total_tackles": 5
     },
     "Mariam Abdulai Toloba": {
         "position": [
@@ -4459,7 +5339,11 @@
         "progr_passes_rec": 12,
         "dribbles": 3,
         "carries": 51,
-        "progr_carries": 5
+        "progr_carries": 0,
+        "interceptions": 7,
+        "ball_recoveries": 11,
+        "successful_tackles": 3,
+        "total_tackles": 3
     },
     "Janice Cayman": {
         "position": [
@@ -4479,7 +5363,11 @@
         "progr_passes_rec": 0,
         "dribbles": 0,
         "carries": 66,
-        "progr_carries": 2
+        "progr_carries": 0,
+        "interceptions": 5,
+        "ball_recoveries": 14,
+        "successful_tackles": 0,
+        "total_tackles": 3
     },
     "Andreia Alexandra Norton": {
         "position": [
@@ -4499,7 +5387,11 @@
         "progr_passes_rec": 2,
         "dribbles": 2,
         "carries": 59,
-        "progr_carries": 2
+        "progr_carries": 0,
+        "interceptions": 4,
+        "ball_recoveries": 11,
+        "successful_tackles": 0,
+        "total_tackles": 2
     },
     "Lisa Lichtfus": {
         "position": [
@@ -4519,7 +5411,11 @@
         "progr_passes_rec": 0,
         "dribbles": 0,
         "carries": 44,
-        "progr_carries": 0
+        "progr_carries": 0,
+        "interceptions": 0,
+        "ball_recoveries": 19,
+        "successful_tackles": 0,
+        "total_tackles": 0
     },
     "Tessa Wullaert": {
         "position": [
@@ -4539,7 +5435,11 @@
         "progr_passes_rec": 18,
         "dribbles": 1,
         "carries": 59,
-        "progr_carries": 5
+        "progr_carries": 0,
+        "interceptions": 0,
+        "ball_recoveries": 7,
+        "successful_tackles": 1,
+        "total_tackles": 1
     },
     "Ana Ines Palma Capeta": {
         "position": [
@@ -4558,7 +5458,11 @@
         "progr_passes_rec": 17,
         "dribbles": 4,
         "carries": 46,
-        "progr_carries": 1
+        "progr_carries": 0,
+        "interceptions": 0,
+        "ball_recoveries": 9,
+        "successful_tackles": 2,
+        "total_tackles": 3
     },
     "Laura Deloose": {
         "position": [
@@ -4578,7 +5482,11 @@
         "progr_passes_rec": 0,
         "dribbles": 0,
         "carries": 73,
-        "progr_carries": 2
+        "progr_carries": 0,
+        "interceptions": 2,
+        "ball_recoveries": 12,
+        "successful_tackles": 4,
+        "total_tackles": 8
     },
     "Sari Kees": {
         "position": [
@@ -4598,7 +5506,11 @@
         "progr_passes_rec": 0,
         "dribbles": 0,
         "carries": 82,
-        "progr_carries": 3
+        "progr_carries": 0,
+        "interceptions": 2,
+        "ball_recoveries": 12,
+        "successful_tackles": 1,
+        "total_tackles": 11
     },
     "Amber Tysiak": {
         "position": [
@@ -4618,7 +5530,11 @@
         "progr_passes_rec": 0,
         "dribbles": 1,
         "carries": 68,
-        "progr_carries": 1
+        "progr_carries": 0,
+        "interceptions": 2,
+        "ball_recoveries": 12,
+        "successful_tackles": 1,
+        "total_tackles": 4
     },
     "Marie Detruyer": {
         "position": [
@@ -4637,7 +5553,11 @@
         "progr_passes_rec": 7,
         "dribbles": 3,
         "carries": 30,
-        "progr_carries": 2
+        "progr_carries": 0,
+        "interceptions": 0,
+        "ball_recoveries": 5,
+        "successful_tackles": 0,
+        "total_tackles": 4
     },
     "Lúcia Catarina Sousa Alves": {
         "position": [
@@ -4655,7 +5575,11 @@
         "progr_passes_rec": 0,
         "dribbles": 0,
         "carries": 14,
-        "progr_carries": 0
+        "progr_carries": 0,
+        "interceptions": 2,
+        "ball_recoveries": 3,
+        "successful_tackles": 0,
+        "total_tackles": 0
     },
     "Andreia de Jesus Jacinto": {
         "position": [
@@ -4675,7 +5599,11 @@
         "progr_passes_rec": 2,
         "dribbles": 0,
         "carries": 45,
-        "progr_carries": 5
+        "progr_carries": 0,
+        "interceptions": 0,
+        "ball_recoveries": 6,
+        "successful_tackles": 1,
+        "total_tackles": 3
     },
     "Jéssica da Silva": {
         "position": [
@@ -4695,7 +5623,11 @@
         "progr_passes_rec": 7,
         "dribbles": 2,
         "carries": 36,
-        "progr_carries": 4
+        "progr_carries": 0,
+        "interceptions": 2,
+        "ball_recoveries": 10,
+        "successful_tackles": 1,
+        "total_tackles": 4
     },
     "Telma Raquel Velosa Encarnação": {
         "position": [
@@ -4714,7 +5646,11 @@
         "progr_passes_rec": 5,
         "dribbles": 0,
         "carries": 2,
-        "progr_carries": 0
+        "progr_carries": 0,
+        "interceptions": 0,
+        "ball_recoveries": 0,
+        "successful_tackles": 0,
+        "total_tackles": 1
     },
     "Dolores Isabel Jacome Silva": {
         "position": [
@@ -4733,7 +5669,11 @@
         "progr_passes_rec": 1,
         "dribbles": 0,
         "carries": 11,
-        "progr_carries": 1
+        "progr_carries": 0,
+        "interceptions": 0,
+        "ball_recoveries": 3,
+        "successful_tackles": 0,
+        "total_tackles": 3
     },
     "Elena Dhont": {
         "position": [
@@ -4753,7 +5693,11 @@
         "progr_passes_rec": 1,
         "dribbles": 1,
         "carries": 15,
-        "progr_carries": 2
+        "progr_carries": 0,
+        "interceptions": 0,
+        "ball_recoveries": 4,
+        "successful_tackles": 2,
+        "total_tackles": 5
     },
     "Davina Philtjens": {
         "position": [
@@ -4771,7 +5715,11 @@
         "progr_passes_rec": 0,
         "dribbles": 0,
         "carries": 0,
-        "progr_carries": 0
+        "progr_carries": 0,
+        "interceptions": 0,
+        "ball_recoveries": 0,
+        "successful_tackles": 0,
+        "total_tackles": 0
     },
     "Linda Sällström": {
         "position": [
@@ -4791,7 +5739,11 @@
         "progr_passes_rec": 21,
         "dribbles": 1,
         "carries": 32,
-        "progr_carries": 2
+        "progr_carries": 0,
+        "interceptions": 0,
+        "ball_recoveries": 5,
+        "successful_tackles": 1,
+        "total_tackles": 2
     },
     "Eva Nyström": {
         "position": [
@@ -4811,7 +5763,11 @@
         "progr_passes_rec": 1,
         "dribbles": 1,
         "carries": 182,
-        "progr_carries": 1
+        "progr_carries": 0,
+        "interceptions": 1,
+        "ball_recoveries": 9,
+        "successful_tackles": 0,
+        "total_tackles": 4
     },
     "Joanna Tynnilä": {
         "position": [
@@ -4831,7 +5787,11 @@
         "progr_passes_rec": 1,
         "dribbles": 3,
         "carries": 126,
-        "progr_carries": 3
+        "progr_carries": 0,
+        "interceptions": 4,
+        "ball_recoveries": 13,
+        "successful_tackles": 0,
+        "total_tackles": 6
     },
     "Svenja Fölmli": {
         "position": [
@@ -4850,7 +5810,11 @@
         "progr_passes_rec": 11,
         "dribbles": 1,
         "carries": 26,
-        "progr_carries": 2
+        "progr_carries": 0,
+        "interceptions": 0,
+        "ball_recoveries": 5,
+        "successful_tackles": 0,
+        "total_tackles": 1
     },
     "Eveliina Summanen": {
         "position": [
@@ -4870,7 +5834,11 @@
         "progr_passes_rec": 1,
         "dribbles": 1,
         "carries": 141,
-        "progr_carries": 2
+        "progr_carries": 0,
+        "interceptions": 1,
+        "ball_recoveries": 16,
+        "successful_tackles": 0,
+        "total_tackles": 6
     },
     "Julia Stierli": {
         "position": [
@@ -4890,7 +5858,11 @@
         "progr_passes_rec": 0,
         "dribbles": 0,
         "carries": 60,
-        "progr_carries": 0
+        "progr_carries": 0,
+        "interceptions": 2,
+        "ball_recoveries": 6,
+        "successful_tackles": 1,
+        "total_tackles": 3
     },
     "Emma Wilhelmina Koivisto": {
         "position": [
@@ -4910,7 +5882,11 @@
         "progr_passes_rec": 3,
         "dribbles": 1,
         "carries": 93,
-        "progr_carries": 15
+        "progr_carries": 0,
+        "interceptions": 1,
+        "ball_recoveries": 18,
+        "successful_tackles": 3,
+        "total_tackles": 8
     },
     "Natalia Kuikka": {
         "position": [
@@ -4930,7 +5906,11 @@
         "progr_passes_rec": 0,
         "dribbles": 0,
         "carries": 157,
-        "progr_carries": 5
+        "progr_carries": 0,
+        "interceptions": 1,
+        "ball_recoveries": 19,
+        "successful_tackles": 1,
+        "total_tackles": 2
     },
     "Oona Sevenius": {
         "position": [
@@ -4949,7 +5929,11 @@
         "progr_passes_rec": 12,
         "dribbles": 2,
         "carries": 59,
-        "progr_carries": 4
+        "progr_carries": 0,
+        "interceptions": 0,
+        "ball_recoveries": 10,
+        "successful_tackles": 0,
+        "total_tackles": 0
     },
     "Saara Katariina Kosola": {
         "position": [
@@ -4969,7 +5953,11 @@
         "progr_passes_rec": 12,
         "dribbles": 4,
         "carries": 102,
-        "progr_carries": 16
+        "progr_carries": 0,
+        "interceptions": 4,
+        "ball_recoveries": 22,
+        "successful_tackles": 1,
+        "total_tackles": 11
     },
     "Oona Siren": {
         "position": [
@@ -4989,7 +5977,11 @@
         "progr_passes_rec": 4,
         "dribbles": 2,
         "carries": 145,
-        "progr_carries": 6
+        "progr_carries": 0,
+        "interceptions": 3,
+        "ball_recoveries": 23,
+        "successful_tackles": 3,
+        "total_tackles": 11
     },
     "Ria Öling": {
         "position": [
@@ -5009,7 +6001,11 @@
         "progr_passes_rec": 19,
         "dribbles": 1,
         "carries": 85,
-        "progr_carries": 5
+        "progr_carries": 0,
+        "interceptions": 0,
+        "ball_recoveries": 11,
+        "successful_tackles": 0,
+        "total_tackles": 4
     },
     "Anna Koivunen": {
         "position": [
@@ -5029,7 +6025,11 @@
         "progr_passes_rec": 0,
         "dribbles": 0,
         "carries": 44,
-        "progr_carries": 0
+        "progr_carries": 0,
+        "interceptions": 0,
+        "ball_recoveries": 12,
+        "successful_tackles": 0,
+        "total_tackles": 0
     },
     "Olga Ahtinen": {
         "position": [
@@ -5048,7 +6048,11 @@
         "progr_passes_rec": 0,
         "dribbles": 0,
         "carries": 11,
-        "progr_carries": 0
+        "progr_carries": 0,
+        "interceptions": 0,
+        "ball_recoveries": 4,
+        "successful_tackles": 0,
+        "total_tackles": 1
     },
     "Sanni Maija Franssi": {
         "position": [
@@ -5068,7 +6072,11 @@
         "progr_passes_rec": 15,
         "dribbles": 1,
         "carries": 52,
-        "progr_carries": 8
+        "progr_carries": 0,
+        "interceptions": 0,
+        "ball_recoveries": 12,
+        "successful_tackles": 0,
+        "total_tackles": 2
     },
     "Nea Lehtola": {
         "position": [
@@ -5087,7 +6095,11 @@
         "progr_passes_rec": 2,
         "dribbles": 0,
         "carries": 13,
-        "progr_carries": 2
+        "progr_carries": 0,
+        "interceptions": 1,
+        "ball_recoveries": 2,
+        "successful_tackles": 0,
+        "total_tackles": 1
     },
     "Jutta Rantala": {
         "position": [
@@ -5106,7 +6118,11 @@
         "progr_passes_rec": 6,
         "dribbles": 0,
         "carries": 16,
-        "progr_carries": 0
+        "progr_carries": 0,
+        "interceptions": 0,
+        "ball_recoveries": 2,
+        "successful_tackles": 1,
+        "total_tackles": 1
     },
     "Maaria Roth": {
         "position": [
@@ -5124,7 +6140,11 @@
         "progr_passes_rec": 0,
         "dribbles": 0,
         "carries": 2,
-        "progr_carries": 0
+        "progr_carries": 0,
+        "interceptions": 0,
+        "ball_recoveries": 0,
+        "successful_tackles": 0,
+        "total_tackles": 0
     },
     "Katla Tryggvadóttir": {
         "position": [
@@ -5144,7 +6164,11 @@
         "progr_passes_rec": 4,
         "dribbles": 0,
         "carries": 16,
-        "progr_carries": 1
+        "progr_carries": 0,
+        "interceptions": 1,
+        "ball_recoveries": 5,
+        "successful_tackles": 0,
+        "total_tackles": 0
     },
     "Glódís Perla Viggósdóttir": {
         "position": [
@@ -5164,7 +6188,11 @@
         "progr_passes_rec": 1,
         "dribbles": 0,
         "carries": 78,
-        "progr_carries": 0
+        "progr_carries": 0,
+        "interceptions": 4,
+        "ball_recoveries": 12,
+        "successful_tackles": 2,
+        "total_tackles": 5
     },
     "Sandra María Jessen": {
         "position": [
@@ -5184,7 +6212,11 @@
         "progr_passes_rec": 31,
         "dribbles": 0,
         "carries": 42,
-        "progr_carries": 0
+        "progr_carries": 0,
+        "interceptions": 1,
+        "ball_recoveries": 9,
+        "successful_tackles": 0,
+        "total_tackles": 4
     },
     "Celin Bizet Ildhusøy": {
         "position": [
@@ -5203,7 +6235,11 @@
         "progr_passes_rec": 8,
         "dribbles": 0,
         "carries": 46,
-        "progr_carries": 3
+        "progr_carries": 0,
+        "interceptions": 0,
+        "ball_recoveries": 7,
+        "successful_tackles": 2,
+        "total_tackles": 4
     },
     "Hildur Antonsdóttir": {
         "position": [
@@ -5222,7 +6258,11 @@
         "progr_passes_rec": 4,
         "dribbles": 0,
         "carries": 22,
-        "progr_carries": 0
+        "progr_carries": 0,
+        "interceptions": 2,
+        "ball_recoveries": 7,
+        "successful_tackles": 0,
+        "total_tackles": 3
     },
     "Ingibjörg Sigurðardóttir": {
         "position": [
@@ -5242,7 +6282,11 @@
         "progr_passes_rec": 0,
         "dribbles": 1,
         "carries": 73,
-        "progr_carries": 0
+        "progr_carries": 0,
+        "interceptions": 0,
+        "ball_recoveries": 14,
+        "successful_tackles": 0,
+        "total_tackles": 3
     },
     "Sædís Rún Heiðarsdóttir": {
         "position": [
@@ -5262,7 +6306,11 @@
         "progr_passes_rec": 0,
         "dribbles": 1,
         "carries": 49,
-        "progr_carries": 0
+        "progr_carries": 0,
+        "interceptions": 0,
+        "ball_recoveries": 3,
+        "successful_tackles": 2,
+        "total_tackles": 10
     },
     "Mathilde Hauge Harviken": {
         "position": [
@@ -5282,7 +6330,11 @@
         "progr_passes_rec": 0,
         "dribbles": 0,
         "carries": 70,
-        "progr_carries": 1
+        "progr_carries": 0,
+        "interceptions": 1,
+        "ball_recoveries": 10,
+        "successful_tackles": 0,
+        "total_tackles": 0
     },
     "Alexandra Jóhannsdóttir": {
         "position": [
@@ -5302,7 +6354,11 @@
         "progr_passes_rec": 4,
         "dribbles": 1,
         "carries": 53,
-        "progr_carries": 0
+        "progr_carries": 0,
+        "interceptions": 3,
+        "ball_recoveries": 19,
+        "successful_tackles": 2,
+        "total_tackles": 7
     },
     "Sveindís Jane Jónsdóttir": {
         "position": [
@@ -5322,7 +6378,11 @@
         "progr_passes_rec": 15,
         "dribbles": 6,
         "carries": 72,
-        "progr_carries": 11
+        "progr_carries": 0,
+        "interceptions": 9,
+        "ball_recoveries": 17,
+        "successful_tackles": 4,
+        "total_tackles": 8
     },
     "Guðrún Arnardóttir": {
         "position": [
@@ -5342,7 +6402,11 @@
         "progr_passes_rec": 2,
         "dribbles": 0,
         "carries": 67,
-        "progr_carries": 1
+        "progr_carries": 0,
+        "interceptions": 4,
+        "ball_recoveries": 6,
+        "successful_tackles": 1,
+        "total_tackles": 12
     },
     "Vilde Bøe Risa": {
         "position": [
@@ -5362,7 +6426,11 @@
         "progr_passes_rec": 1,
         "dribbles": 1,
         "carries": 54,
-        "progr_carries": 0
+        "progr_carries": 0,
+        "interceptions": 2,
+        "ball_recoveries": 12,
+        "successful_tackles": 0,
+        "total_tackles": 3
     },
     "Cecilía Rán Rúnarsdóttir": {
         "position": [
@@ -5382,7 +6450,11 @@
         "progr_passes_rec": 0,
         "dribbles": 0,
         "carries": 93,
-        "progr_carries": 0
+        "progr_carries": 0,
+        "interceptions": 0,
+        "ball_recoveries": 19,
+        "successful_tackles": 0,
+        "total_tackles": 0
     },
     "Karólína Lea Vilhjálmsdóttir": {
         "position": [
@@ -5402,7 +6474,11 @@
         "progr_passes_rec": 14,
         "dribbles": 2,
         "carries": 62,
-        "progr_carries": 3
+        "progr_carries": 0,
+        "interceptions": 0,
+        "ball_recoveries": 10,
+        "successful_tackles": 2,
+        "total_tackles": 2
     },
     "Justine Kvaleng Kielland": {
         "position": [
@@ -5420,7 +6496,11 @@
         "progr_passes_rec": 0,
         "dribbles": 0,
         "carries": 25,
-        "progr_carries": 0
+        "progr_carries": 0,
+        "interceptions": 0,
+        "ball_recoveries": 3,
+        "successful_tackles": 0,
+        "total_tackles": 2
     },
     "Marit Bratberg Lund": {
         "position": [
@@ -5440,7 +6520,11 @@
         "progr_passes_rec": 0,
         "dribbles": 0,
         "carries": 94,
-        "progr_carries": 2
+        "progr_carries": 0,
+        "interceptions": 0,
+        "ball_recoveries": 6,
+        "successful_tackles": 2,
+        "total_tackles": 9
     },
     "Agla María Albertsdóttir": {
         "position": [
@@ -5459,7 +6543,11 @@
         "progr_passes_rec": 1,
         "dribbles": 0,
         "carries": 30,
-        "progr_carries": 1
+        "progr_carries": 0,
+        "interceptions": 0,
+        "ball_recoveries": 8,
+        "successful_tackles": 2,
+        "total_tackles": 3
     },
     "Dagný Brynjarsdóttir": {
         "position": [
@@ -5478,7 +6566,11 @@
         "progr_passes_rec": 6,
         "dribbles": 0,
         "carries": 38,
-        "progr_carries": 0
+        "progr_carries": 0,
+        "interceptions": 1,
+        "ball_recoveries": 11,
+        "successful_tackles": 0,
+        "total_tackles": 3
     },
     "Karina Sævik": {
         "position": [
@@ -5496,7 +6588,11 @@
         "progr_passes_rec": 5,
         "dribbles": 0,
         "carries": 12,
-        "progr_carries": 4
+        "progr_carries": 0,
+        "interceptions": 0,
+        "ball_recoveries": 0,
+        "successful_tackles": 0,
+        "total_tackles": 0
     },
     "Synne Jensen": {
         "position": [
@@ -5514,7 +6610,11 @@
         "progr_passes_rec": 1,
         "dribbles": 3,
         "carries": 21,
-        "progr_carries": 2
+        "progr_carries": 0,
+        "interceptions": 0,
+        "ball_recoveries": 5,
+        "successful_tackles": 0,
+        "total_tackles": 0
     },
     "Hlín Eiríksdóttir": {
         "position": [
@@ -5532,7 +6632,11 @@
         "progr_passes_rec": 3,
         "dribbles": 1,
         "carries": 20,
-        "progr_carries": 1
+        "progr_carries": 0,
+        "interceptions": 0,
+        "ball_recoveries": 0,
+        "successful_tackles": 1,
+        "total_tackles": 1
     },
     "Amanda Jacobsen Andradóttir": {
         "position": [],
@@ -5548,7 +6652,11 @@
         "progr_passes_rec": 2,
         "dribbles": 0,
         "carries": 2,
-        "progr_carries": 0
+        "progr_carries": 0,
+        "interceptions": 0,
+        "ball_recoveries": 0,
+        "successful_tackles": 0,
+        "total_tackles": 0
     },
     "Marthine Østenstad": {
         "position": [
@@ -5566,7 +6674,11 @@
         "progr_passes_rec": 0,
         "dribbles": 0,
         "carries": 8,
-        "progr_carries": 0
+        "progr_carries": 0,
+        "interceptions": 0,
+        "ball_recoveries": 1,
+        "successful_tackles": 0,
+        "total_tackles": 1
     },
     "Berglind Rós Ágústsdóttir": {
         "position": [],
@@ -5582,7 +6694,11 @@
         "progr_passes_rec": 0,
         "dribbles": 0,
         "carries": 2,
-        "progr_carries": 0
+        "progr_carries": 0,
+        "interceptions": 0,
+        "ball_recoveries": 1,
+        "successful_tackles": 0,
+        "total_tackles": 0
     },
     "Veerle Buurman": {
         "position": [
@@ -5601,7 +6717,11 @@
         "progr_passes_rec": 0,
         "dribbles": 0,
         "carries": 75,
-        "progr_carries": 1
+        "progr_carries": 0,
+        "interceptions": 1,
+        "ball_recoveries": 9,
+        "successful_tackles": 0,
+        "total_tackles": 1
     },
     "Vivianne Miedema": {
         "position": [
@@ -5620,7 +6740,11 @@
         "progr_passes_rec": 9,
         "dribbles": 2,
         "carries": 21,
-        "progr_carries": 3
+        "progr_carries": 0,
+        "interceptions": 0,
+        "ball_recoveries": 1,
+        "successful_tackles": 0,
+        "total_tackles": 0
     },
     "Safia Middleton-Patel": {
         "position": [
@@ -5638,7 +6762,11 @@
         "progr_passes_rec": 0,
         "dribbles": 0,
         "carries": 24,
-        "progr_carries": 0
+        "progr_carries": 0,
+        "interceptions": 0,
+        "ball_recoveries": 5,
+        "successful_tackles": 0,
+        "total_tackles": 0
     },
     "Kelly Gago": {
         "position": [
@@ -5656,7 +6784,11 @@
         "progr_passes_rec": 1,
         "dribbles": 2,
         "carries": 20,
-        "progr_carries": 1
+        "progr_carries": 0,
+        "interceptions": 0,
+        "ball_recoveries": 2,
+        "successful_tackles": 0,
+        "total_tackles": 0
     },
     "Lois Joel": {
         "position": [
@@ -5674,7 +6806,11 @@
         "progr_passes_rec": 1,
         "dribbles": 0,
         "carries": 3,
-        "progr_carries": 0
+        "progr_carries": 0,
+        "interceptions": 0,
+        "ball_recoveries": 1,
+        "successful_tackles": 0,
+        "total_tackles": 0
     },
     "Sophie Louise Ingle": {
         "position": [],
@@ -5690,7 +6826,11 @@
         "progr_passes_rec": 0,
         "dribbles": 0,
         "carries": 0,
-        "progr_carries": 0
+        "progr_carries": 0,
+        "interceptions": 0,
+        "ball_recoveries": 0,
+        "successful_tackles": 0,
+        "total_tackles": 0
     },
     "Nadia Krezyman": {
         "position": [
@@ -5709,7 +6849,11 @@
         "progr_passes_rec": 5,
         "dribbles": 2,
         "carries": 16,
-        "progr_carries": 4
+        "progr_carries": 0,
+        "interceptions": 0,
+        "ball_recoveries": 5,
+        "successful_tackles": 0,
+        "total_tackles": 0
     },
     "Dominika Grabowska": {
         "position": [
@@ -5728,7 +6872,11 @@
         "progr_passes_rec": 4,
         "dribbles": 0,
         "carries": 15,
-        "progr_carries": 0
+        "progr_carries": 0,
+        "interceptions": 1,
+        "ball_recoveries": 4,
+        "successful_tackles": 2,
+        "total_tackles": 4
     },
     "Amanda Ilestedt": {
         "position": [
@@ -5746,7 +6894,11 @@
         "progr_passes_rec": 1,
         "dribbles": 0,
         "carries": 20,
-        "progr_carries": 0
+        "progr_carries": 0,
+        "interceptions": 0,
+        "ball_recoveries": 6,
+        "successful_tackles": 0,
+        "total_tackles": 1
     },
     "Weronika Zawistowska": {
         "position": [
@@ -5764,7 +6916,11 @@
         "progr_passes_rec": 0,
         "dribbles": 0,
         "carries": 2,
-        "progr_carries": 0
+        "progr_carries": 0,
+        "interceptions": 0,
+        "ball_recoveries": 0,
+        "successful_tackles": 0,
+        "total_tackles": 1
     },
     "Emma Snerle": {
         "position": [
@@ -5783,7 +6939,11 @@
         "progr_passes_rec": 2,
         "dribbles": 1,
         "carries": 36,
-        "progr_carries": 0
+        "progr_carries": 0,
+        "interceptions": 2,
+        "ball_recoveries": 11,
+        "successful_tackles": 1,
+        "total_tackles": 4
     },
     "Cornelia Kramer": {
         "position": [
@@ -5801,7 +6961,11 @@
         "progr_passes_rec": 2,
         "dribbles": 0,
         "carries": 4,
-        "progr_carries": 0
+        "progr_carries": 0,
+        "interceptions": 0,
+        "ball_recoveries": 2,
+        "successful_tackles": 0,
+        "total_tackles": 0
     },
     "Sanne Troelsgaard-Nielsen": {
         "position": [
@@ -5819,7 +6983,11 @@
         "progr_passes_rec": 0,
         "dribbles": 0,
         "carries": 10,
-        "progr_carries": 0
+        "progr_carries": 0,
+        "interceptions": 1,
+        "ball_recoveries": 2,
+        "successful_tackles": 0,
+        "total_tackles": 2
     },
     "Cora Zicai": {
         "position": [],
@@ -5835,7 +7003,11 @@
         "progr_passes_rec": 0,
         "dribbles": 0,
         "carries": 2,
-        "progr_carries": 0
+        "progr_carries": 0,
+        "interceptions": 0,
+        "ball_recoveries": 0,
+        "successful_tackles": 0,
+        "total_tackles": 0
     },
     "Ana Borges": {
         "position": [
@@ -5854,7 +7026,11 @@
         "progr_passes_rec": 1,
         "dribbles": 2,
         "carries": 51,
-        "progr_carries": 0
+        "progr_carries": 0,
+        "interceptions": 1,
+        "ball_recoveries": 11,
+        "successful_tackles": 3,
+        "total_tackles": 7
     },
     "Valentina Bergamaschi": {
         "position": [],
@@ -5870,7 +7046,11 @@
         "progr_passes_rec": 1,
         "dribbles": 0,
         "carries": 1,
-        "progr_carries": 0
+        "progr_carries": 0,
+        "interceptions": 0,
+        "ball_recoveries": 1,
+        "successful_tackles": 0,
+        "total_tackles": 0
     },
     "Hannah Eurlings": {
         "position": [
@@ -5889,7 +7069,11 @@
         "progr_passes_rec": 15,
         "dribbles": 2,
         "carries": 49,
-        "progr_carries": 10
+        "progr_carries": 0,
+        "interceptions": 0,
+        "ball_recoveries": 3,
+        "successful_tackles": 0,
+        "total_tackles": 0
     },
     "Kassandra Ndoutou Eboa Missipo": {
         "position": [
@@ -5907,7 +7091,11 @@
         "progr_passes_rec": 1,
         "dribbles": 0,
         "carries": 1,
-        "progr_carries": 0
+        "progr_carries": 0,
+        "interceptions": 0,
+        "ball_recoveries": 0,
+        "successful_tackles": 0,
+        "total_tackles": 1
     },
     "Guðný Árnadóttir": {
         "position": [
@@ -5926,7 +7114,11 @@
         "progr_passes_rec": 0,
         "dribbles": 1,
         "carries": 33,
-        "progr_carries": 2
+        "progr_carries": 0,
+        "interceptions": 2,
+        "ball_recoveries": 5,
+        "successful_tackles": 1,
+        "total_tackles": 2
     },
     "Hafrún Rakel Halldórsdóttir": {
         "position": [
@@ -5944,7 +7136,11 @@
         "progr_passes_rec": 1,
         "dribbles": 0,
         "carries": 3,
-        "progr_carries": 0
+        "progr_carries": 0,
+        "interceptions": 1,
+        "ball_recoveries": 1,
+        "successful_tackles": 0,
+        "total_tackles": 1
     },
     "Áslaug Munda Gunnlaugsdóttir": {
         "position": [
@@ -5962,7 +7158,11 @@
         "progr_passes_rec": 0,
         "dribbles": 0,
         "carries": 1,
-        "progr_carries": 0
+        "progr_carries": 0,
+        "interceptions": 0,
+        "ball_recoveries": 0,
+        "successful_tackles": 0,
+        "total_tackles": 0
     },
     "Anni Hartikainen": {
         "position": [
@@ -5980,7 +7180,11 @@
         "progr_passes_rec": 0,
         "dribbles": 0,
         "carries": 2,
-        "progr_carries": 0
+        "progr_carries": 0,
+        "interceptions": 0,
+        "ball_recoveries": 0,
+        "successful_tackles": 0,
+        "total_tackles": 0
     },
     "Ella Powell": {
         "position": [
@@ -5998,7 +7202,11 @@
         "progr_passes_rec": 0,
         "dribbles": 0,
         "carries": 12,
-        "progr_carries": 2
+        "progr_carries": 0,
+        "interceptions": 0,
+        "ball_recoveries": 2,
+        "successful_tackles": 1,
+        "total_tackles": 3
     },
     "Paulina Dudek": {
         "position": [
@@ -6016,7 +7224,11 @@
         "progr_passes_rec": 0,
         "dribbles": 0,
         "carries": 12,
-        "progr_carries": 0
+        "progr_carries": 0,
+        "interceptions": 0,
+        "ball_recoveries": 1,
+        "successful_tackles": 1,
+        "total_tackles": 2
     },
     "Giulia Gwinn": {
         "position": [
@@ -6034,7 +7246,11 @@
         "progr_passes_rec": 2,
         "dribbles": 0,
         "carries": 27,
-        "progr_carries": 0
+        "progr_carries": 0,
+        "interceptions": 0,
+        "ball_recoveries": 2,
+        "successful_tackles": 0,
+        "total_tackles": 0
     },
     "Kayla Joan Zophia Adamek": {
         "position": [
@@ -6052,7 +7268,11 @@
         "progr_passes_rec": 1,
         "dribbles": 0,
         "carries": 5,
-        "progr_carries": 0
+        "progr_carries": 0,
+        "interceptions": 0,
+        "ball_recoveries": 0,
+        "successful_tackles": 0,
+        "total_tackles": 0
     },
     "Beatriz Pina Fonseca": {
         "position": [
@@ -6070,7 +7290,11 @@
         "progr_passes_rec": 1,
         "dribbles": 0,
         "carries": 11,
-        "progr_carries": 0
+        "progr_carries": 0,
+        "interceptions": 3,
+        "ball_recoveries": 2,
+        "successful_tackles": 1,
+        "total_tackles": 3
     },
     "Inês Teixeira Pereira": {
         "position": [
@@ -6088,7 +7312,11 @@
         "progr_passes_rec": 0,
         "dribbles": 0,
         "carries": 13,
-        "progr_carries": 0
+        "progr_carries": 0,
+        "interceptions": 0,
+        "ball_recoveries": 1,
+        "successful_tackles": 0,
+        "total_tackles": 0
     },
     "Ana Rita Silva Seiça": {
         "position": [
@@ -6106,7 +7334,11 @@
         "progr_passes_rec": 0,
         "dribbles": 0,
         "carries": 13,
-        "progr_carries": 0
+        "progr_carries": 0,
+        "interceptions": 2,
+        "ball_recoveries": 1,
+        "successful_tackles": 0,
+        "total_tackles": 2
     },
     "Andreia Martins Faria": {
         "position": [],
@@ -6122,7 +7354,11 @@
         "progr_passes_rec": 0,
         "dribbles": 0,
         "carries": 1,
-        "progr_carries": 0
+        "progr_carries": 0,
+        "interceptions": 0,
+        "ball_recoveries": 1,
+        "successful_tackles": 0,
+        "total_tackles": 0
     },
     "Sarah Wijnants": {
         "position": [
@@ -6140,7 +7376,11 @@
         "progr_passes_rec": 0,
         "dribbles": 0,
         "carries": 11,
-        "progr_carries": 0
+        "progr_carries": 0,
+        "interceptions": 0,
+        "ball_recoveries": 4,
+        "successful_tackles": 0,
+        "total_tackles": 0
     },
     "Ella Van Kerkhoven": {
         "position": [
@@ -6158,7 +7398,11 @@
         "progr_passes_rec": 2,
         "dribbles": 0,
         "carries": 1,
-        "progr_carries": 0
+        "progr_carries": 0,
+        "interceptions": 0,
+        "ball_recoveries": 0,
+        "successful_tackles": 0,
+        "total_tackles": 0
     },
     "Tinne De Caigny": {
         "position": [
@@ -6176,7 +7420,11 @@
         "progr_passes_rec": 1,
         "dribbles": 0,
         "carries": 1,
-        "progr_carries": 0
+        "progr_carries": 0,
+        "interceptions": 0,
+        "ball_recoveries": 0,
+        "successful_tackles": 0,
+        "total_tackles": 0
     },
     "Vilma Emilia Koivisto": {
         "position": [],
@@ -6192,6 +7440,10 @@
         "progr_passes_rec": 0,
         "dribbles": 0,
         "carries": 0,
-        "progr_carries": 0
+        "progr_carries": 0,
+        "interceptions": 0,
+        "ball_recoveries": 0,
+        "successful_tackles": 0,
+        "total_tackles": 0
     }
 }

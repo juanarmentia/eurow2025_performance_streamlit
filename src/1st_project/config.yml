@@ -41,6 +41,15 @@ metrics:
   - name: 'xt_90'
     title: 'xThreat'
     ax: [2, 0]
+metrics_def:
+  - name: 'interceptions_90'
+    title: 'Interceptions'
+  - name: 'ballrecoveries_90'
+    title: 'Ball Recoveries'
+  - name: 'tackles_90'
+    title: 'Tackles'
+  - name: 'successful_tackles'
+    title: '% Successful Tackles'
 positions:
   - Goalkeeper
   - Right Back

@@ -56,11 +56,16 @@ def load_all_players_stats() -> pd.DataFrame:
     players_df['carries_90'] = players_df['carries'] / players_df['minutes_90']
     players_df['progr_carries_90'] = players_df['progr_carries'] / players_df['minutes_90']
     players_df['xt_90'] = players_df['xt'] / players_df['minutes_90']
+    players_df['interceptions_90'] = players_df['interceptions'] / players_df['minutes_90']
+    players_df['ballrecoveries_90'] = players_df['ball_recoveries'] / players_df['minutes_90']
+    players_df['tackles_90'] = players_df['total_tackles'] / players_df['minutes_90']
+    players_df['successful_tackles_90'] = players_df['successful_tackles'] / players_df['minutes_90']
+    players_df['successful_tackles_perc'] = players_df['successful_tackles'] / players_df['total_tackles']
 
     players_df = players_df[players_df['minutes_total'] >= 90]
 
     # Z-score normalization
-    for metric in config.metrics:
+    for metric in (config.metrics + config.metrics_def):
         metric_name = metric.name
         metric_mean = players_df[metric_name].mean()
         metric_std = players_df[metric_name].std()
@@ -181,9 +186,13 @@ matches_df = load_matches()
 
 # tab_player, tab_comparison = st.tabs(["Player Performance", "Players Comparison"])
 
-all_metrics_list = []
+all_metrics_off_list = []
 for metric in config.metrics:
-    all_metrics_list.append(metric.name)
+    all_metrics_off_list.append(metric.name)
+
+all_metrics_def_list = []
+for metric in config.metrics_def:
+    all_metrics_def_list.append(metric.name)
 
 players_df = load_all_players_stats()
 
@@ -227,19 +236,26 @@ with col1:
     if positions:
         st.session_state.selected_positions = positions
 
-    metrics = st.multiselect(
-        "Select Metrics:",
-        all_metrics_list,
-        default=all_metrics_list[:3],
+    metrics_off = st.multiselect(
+        "Select Offensive Metrics:",
+        all_metrics_off_list,
+        default=all_metrics_off_list[:3],
+    )
+
+    metrics_def = st.multiselect(
+        "Select Defensive Metrics:",
+        all_metrics_def_list,
+        default=all_metrics_def_list[:3],
     )
 
 with col2:
-    if selected_player and metrics:
+    if selected_player and (metrics_off or metrics_def):
         position = players_df[players_df['player_name'] == selected_player]['position'].iloc[0]
         specific_position_df = players_df[players_df['position'].isin(positions)].copy()
         filtered_df = pd.concat([players_df[players_df['player_name'] == selected_player], specific_position_df], ignore_index=True)
         # Calcular límites globales de z-score para todas las métricas
         all_zscores = []
+        metrics = metrics_off + metrics_def
         for metric in metrics:
             all_zscores.extend(filtered_df[f'{metric}_zscore'].values)
 
@@ -278,65 +294,19 @@ with col2:
         cmap = 'Blues_r'
 
         for idx, metric_name in enumerate(metrics):
+            title = None
             for metric in config.metrics:
                 if metric.name == metric_name:
                     title = metric.title
                     break
+            if title is None:
+                for metric in config.metrics_def:
+                    if metric.name == metric_name:
+                        title = metric.title
+                        break
             utils.create_horizontal_strip_plot_streamlit(axs, idx, filtered_df, metric_name, len(metrics),
                                                    title, selected_player, z_min_global, z_max_global)
 
         st.pyplot(fig)
 
-
-
-
-
-# with tab_comparison:
-#     st.subheader("Players – Radar comparison")
-    # col1, col2 = st.columns(2)
-    # with col1:
-    #     all_teams1 = sorted(pd.unique(pd.concat([matches_df['home_team_name'], matches_df['away_team_name']]).dropna()))
-    #     team1 = st.selectbox("Select 1st team to load players", options=all_teams1)
-    # with col2:
-    #     all_teams2 = sorted(pd.unique(pd.concat([matches_df['home_team_name'], matches_df['away_team_name']]).dropna()))
-    #     team2 = st.selectbox("Select 2nd team to load players", options=all_teams2)
-    #
-    # with col1:
-    #     events_team1 = load_all_events_for_team_players(team1) if team1 else pd.DataFrame()
-    #     if events_team1.empty:
-    #         st.info("No events available for the selected team yet.")
-    #     else:
-    #         players1 = sorted(events_team1['player_name'].dropna().unique().tolist())
-    #         p1 = st.selectbox("Player 1", options=players1, index=0 if players1 else None)
-    #         m1 = compute_player_metrics(events_team1, p1)
-    #         st.write("Player 1 metrics:", m1)
-    # with col2:
-    #
-    #     events_team2 = load_all_events_for_team_players(team2) if team2 else pd.DataFrame()
-    #     if events_team2.empty:
-    #         st.info("No events available for the selected team yet.")
-    #     else:
-    #         players2 = sorted(events_team2['player_name'].dropna().unique().tolist())
-    #         p2 = st.selectbox("Player 2", options=players2, index=0 if players2 else None)
-    #         m2 = compute_player_metrics(events_team2, p2)
-    #         st.write("Player 2 metrics:", m2)
-
-    # if p1 and p2:
-    #     # Radar
-    #     # Convert dict metrics to list of values matching params order
-    #     m1_values = [m1[p] for p in params]
-    #     m2_values = [m2[p] for p in params]
-    #
-    #     fig, ax = radar.setup_axis()
-    #     rings_inner = radar.draw_circles(ax=ax, facecolor='#ffb2b2', edgecolor='#fc5f5f')
-    #     radar_output = radar.draw_radar_compare(m1_values, m2_values, ax=ax,
-    #                                             kwargs_radar={'facecolor': '#00f2c1', 'alpha': 0.6},
-    #                                             kwargs_compare={'facecolor': '#d80499', 'alpha': 0.6})
-    #     radar_poly, radar_poly2, vertices1, vertices2 = radar_output
-    #     range_labels = radar.draw_range_labels(ax=ax, fontsize=15,
-    #                                            fontproperties=robotto_thin.prop)
-    #     param_labels = radar.draw_param_labels(ax=ax, fontsize=15,
-    #                                            fontproperties=robotto_thin.prop)
-    #     # fig = build_radar((fig, ax), [m1, m2], [p1, p2])
-    #     st.pyplot(fig)
 
