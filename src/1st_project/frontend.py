@@ -7,9 +7,8 @@ from typing import List, Tuple
 from collections import Counter
 
 from matplotlib import pyplot as plt
-from mplsoccer import Sbopen, Radar, FontManager
+from mplsoccer import Sbopen
 
-from streamlit_tags import st_tags
 from omegaconf import OmegaConf
 
 import utils
