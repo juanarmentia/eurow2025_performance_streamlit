@@ -13,7 +13,7 @@ from omegaconf import OmegaConf
 
 import utils
 
-config = OmegaConf.load('config.yml')
+config = OmegaConf.load('src/1st_project/config.yml')
 
 metrics_dict = {metric.name: metric.title for metric in config.metrics}
 
@@ -24,9 +24,9 @@ metrics_dict = {metric.name: metric.title for metric in config.metrics}
 @st.cache_data(show_spinner=True)
 def load_all_players_stats() -> pd.DataFrame:
     # Collecting all stats
-    df_xt = pd.read_csv('source/summary_players_xT_statsbomb_filtered.csv')[['player_name', 'xt']]
+    df_xt = pd.read_csv('src/1st_project/source/summary_players_xT_statsbomb_filtered.csv')[['player_name', 'xt']]
 
-    with open('./source/all_players_stats_streamlit_v1.json', 'r', encoding='utf-8') as f:
+    with open('src/1st_project/source/all_players_stats_streamlit_v1.json', 'r', encoding='utf-8') as f:
         all_players_stats = json.load(f)
 
     # Convertir el diccionario a DataFrame
@@ -179,7 +179,7 @@ with col_header1:
     st.title("UEFA Women's Euro 2025 - Players performance")
     st.caption("Data source: StatsBomb Open Data")
 with col_header2:
-    st.image('./images/euro.png', width='content')
+    st.image('src/1st_project/images/euro.png', width='content')
 
 matches_df = load_matches()
 

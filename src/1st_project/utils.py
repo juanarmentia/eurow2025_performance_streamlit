@@ -8,7 +8,7 @@ from scipy.stats import gaussian_kde
 
 from omegaconf import OmegaConf
 
-config = OmegaConf.load('config.yml')
+config = OmegaConf.load('src/1st_project/config.yml')
 
 def highlight_player_point(ax, data, x_col, player_name):
     """
