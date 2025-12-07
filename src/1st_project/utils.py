@@ -642,13 +642,16 @@ def create_horizontal_strip_plot_streamlit(ax, order, df, metric_name, n_metrics
     metric_values = all_players_data[f'{metric_name}_zscore'].values
 
     # Calculate density using KDE (Kernel Density Estimation)
-    if len(metric_values) > 1:
+    # Check for both enough data points AND non-zero variance
+    if len(metric_values) > 1 and np.var(metric_values) > 1e-10: # Use a small tolerance instead of exact zero
         kde = gaussian_kde(metric_values)
         density = kde(metric_values)
         # Normalize density between 0 and 1
         density_norm = (density - density.min()) / (density.max() - density.min())
     else:
-        density_norm = np.ones(len(metric_values))
+        # Handle the case where KDE cannot be calculated
+        # For example, by setting a uniform density or skipping the plot feature.
+        density_norm = np.full_like(metric_values, 0.5) # Example: set to a neutral
 
     # Get Blues colormap
     blues_cmap = plt.get_cmap('Blues')
