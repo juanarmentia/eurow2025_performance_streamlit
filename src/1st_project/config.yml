@@ -1,0 +1,70 @@
+player:
+  full_name: 'María Francesca Caldentey Oliver'
+  name: 'Mariona Caldentey'
+  team: "Spain Women's"
+target_positions:
+  - 'Right Wing'
+  - 'Left Wing'
+  - 'Left Midfield'
+  - 'Right Midfield'
+recovery_events:
+  - 'Ball Recovery'
+  - 'Interception'
+  - 'Duel'
+receptions:
+  zone: 'third' # third or full
+metrics:
+  - name: 'goals_90'
+    title: 'Goals (Non-penalty)'
+    ax: [0, 0]
+  - name: 'npxg_90'
+    title: 'xG (Non-penalty)'
+    ax: [0, 1]
+  - name: 'xa_90'
+    title: 'xAG'
+    ax: [0, 2]
+  - name: 'key_passes_90'
+    title: 'Key passes'
+    ax: [0, 3]
+  - name: 'dribbles_90'
+    title: 'Dribbles Completed'
+    ax: [1, 0]
+  - name: 'progr_carries_90'
+    title: 'Progressive Carries'
+    ax: [1, 1]
+  - name: 'progr_passes_90'
+    title: 'Progressive Passes'
+    ax: [1, 2]
+  - name: 'progr_passes_rec_90'
+    title: 'Progressive Receptions'
+    ax: [1, 3]
+  - name: 'xt_90'
+    title: 'xThreat'
+    ax: [2, 0]
+positions:
+  - Goalkeeper
+  - Right Back
+  - Right Center Back
+  - Center Back
+  - Left Center Back
+  - Left Back
+  - Right Wing back
+  - Left Wing Back
+  - Right Defensive Midfield
+  - Center Defensive Midfield
+  - Left Defensive Midfield
+  - Right Midfield
+  - Right Center Midfield
+  - Center Midfield
+  - Left Center Midfield
+  - Left Midfield
+  - Right Wing
+  - Right Attacking Midfield
+  - Center Attacking Midfield
+  - Left Attacking Midfield
+  - Left Wing
+  - Right Center Forward
+  - Center Forward
+  - Striker
+  - Left Center Forward
+  - Secondary Striker
